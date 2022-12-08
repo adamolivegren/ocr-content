@@ -1,5 +1,56 @@
 <!DOCTYPE html>
 <html>
-  <head></head>
-  <body></body>
+  <head>
+    <script src="https://unpkg.com/tesseract.js@4.0.0/dist/tesseract.min.js"></script>
+    <script src="js/content.js"></script>
+    <link rel="stylesheet" href="css/styles.css" />
+  </head>
+  <body>
+    <div class="outer-div">
+      <div class="img-div"><img id="img" src="" /></div>
+
+      <div class="result">
+        <h2>Lorem ipsum</h2>
+        <p>
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+          aliquip ex ea commodo consequat. Duis aute irure dolor in
+          reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+          pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+          culpa qui officia deserunt mollit anim id est laborum."
+        </p>
+      </div>
+    </div>
+
+    <script>
+      const img = "./img/IMG_1494.jpg";
+      document.getElementById("img").src = img;
+
+      const printText = (text) => {
+        const editedText = highlightText(text);
+        document.querySelector(".result h2").innerHTML =
+          "Vi hittade följande text: ";
+        document.querySelector(".result p").innerHTML = editedText;
+      };
+
+      const highlightText = (text) => {
+        let array = [];
+        ingredients.forEach((e) => {
+          if (text.includes(e.name)) {
+            text = text.replace(
+              e.name,
+              `<span style="color: red";>${e.name}</span>`
+            );
+          }
+        });
+        return text;
+      };
+
+      /* OCR */
+      Tesseract.recognize(img, "eng").then(({ data: { text } }) => {
+        printText(text);
+      });
+    </script>
+  </body>
 </html>
