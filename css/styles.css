@@ -1,3 +1,23 @@
+* {
+  color: white;
+  font-family: "Outfit", sans-serif;
+}
+
+h2 {
+  font-size: 24px;
+  font-weight: 500;
+  margin-bottom: 0;
+}
+h3 {
+  font-size: 20px;
+  margin-top: 50px;
+}
+
+p {
+  margin: 5px;
+  font-size: 16px;
+}
+
 body {
   margin: 0px;
 }
@@ -6,27 +26,113 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  width: 100%;
-  height: 100vh;
-  background-color: black;
+  min-height: 100vh;
+  padding-left: 5vw;
+  padding-right: 5vw;
+  padding-bottom: 5vh;
+  background-color: #53614d;
 }
 
-.img-div {
-  width: 500px;
-  height: 200px;
-  background-image: url("../img/IMG_1494.jpg");
-  background-position: center;
-  background-size: 100% 100%;
+.logo {
+  max-width: 90vw;
+  margin-bottom: 20px;
 }
 
-img {
-  width: 100%;
-  height: auto;
+.logo img {
+  max-width: 100%;
+  max-height: 100%;
   object-fit: contain;
 }
 
+.img-div {
+  display: flex;
+  justify-content: center;
+}
+
+.img-div img {
+  display: none;
+  max-width: 80%;
+  max-height: 100%;
+  object-fit: contain;
+  padding: 2px;
+  border: #d9d9d9 3px solid;
+  border-radius: 10px;
+}
+
 .result {
-  width: 40%;
-  color: white;
-  margin-top: 50px;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.capture-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 35vw;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 5px;
+  background-color: #d9d9d9;
+  margin-top: 40px;
+}
+.capture-button p {
+  color: #53614d;
+}
+.load-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 5px;
+  width: 35vw;
+  padding-bottom: 5px;
+  border-radius: 5px;
+  background-color: #d9d9d9;
+  margin-top: 15px;
+}
+.load-button p {
+  color: #53614d;
+}
+
+.reset-button {
+  display: none;
+  justify-content: center;
+  align-items: center;
+  width: 35vw;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 5px;
+  background-color: #d9d9d9;
+}
+.reset-button p {
+  color: #53614d;
+}
+
+#loading-indicator {
+  display: none; /* Hidden by default */
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.8);
+  z-index: 9999;
+}
+
+#loading-indicator .spinner {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 40px;
+  height: 40px;
+  border: 8px solid #ccc;
+  border-radius: 50%;
+  border-top-color: #333;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: translate(-50%, -50%) rotate(360deg);
+  }
 }
