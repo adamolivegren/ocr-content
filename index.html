@@ -1,11 +1,6 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <!-- Used for github cache -->
-    <meta http-equiv="cache-control" content="no-cache" />
-    <meta http-equiv="expires" content="0" />
-    <meta http-equiv="pragma" content="no-cache" />
-    <!--  -->
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <script src="https://unpkg.com/tesseract.js@4.0.0/dist/tesseract.min.js"></script>
@@ -22,7 +17,6 @@
   </head>
   <body>
     <div class="outer-div">
-      <div class="adam" id="hampus:hej"></div>
       <div class="logo"><img src="img/11hektar.png" alt="11hektar-logo" /></div>
       <div class="img-div">
         <img src="" alt="" />
@@ -39,25 +33,40 @@
         id="image-input"
       />
       <img src="" alt="" id="test" />
-      <div class="capture-button" onclick="runOCR()"><p>Ta bild</p></div>
-      <div class="load-button" onclick="runOCR()"><p>Ladda upp</p></div>
+      <div class="capture-button" onclick="runOCR()"><p>Kör OCR</p></div>
       <div class="reset-button" onclick="reset()">
         <p>Kör igen</p>
       </div>
     </div>
 
     <script>
-      let img = "";
+      let img = "img/IMG_2815.jpg";
       let ingredients;
       getData().then((result) => {
         ingredients = result;
       });
 
-      const input = document.getElementById("image-input");
+      /* REMOVE: */
+      window.onload = function () {
+        document.querySelector(".img-div img").src = img;
+        document.querySelector(".img-div img").style.display = "block";
+        const cropper = new Cropper(document.querySelector(".img-div img"), {
+          zoomable: false,
+        });
+        document.querySelector(".crop-button").addEventListener("click", () => {
+          // get the cropped image as a canvas
+          const canvas = cropper.getCroppedCanvas();
+          img = canvas.toDataURL();
+          cropper.destroy();
+          document.querySelector(".img-div img").src = img;
+          document.querySelector(".img-div img").style.width = "auto";
+          document.querySelector(".img-div img").style.height = "auto";
+        });
+      };
 
+      const input = document.getElementById("image-input");
       input.addEventListener("change", () => {
         const file = input.files[0];
-
         if (file) {
           const reader = new FileReader();
           reader.addEventListener("load", () => {
@@ -136,7 +145,6 @@
             hideLoadingAnimation();
             printResult(text);
             document.querySelector(".capture-button").style.display = "none";
-            document.querySelector(".load-button").style.display = "none";
             document.querySelector(".reset-button").style.display = "flex";
             document.querySelector(".outer-div").style.justifyContent =
               "flex-start";
