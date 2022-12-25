@@ -118,7 +118,7 @@
         result.appendChild(header);
 
         ingredients.forEach((e) => {
-          if (text.includes(e.Name) && e.Name) {
+          if (text.includes(e.Name) && e.Name && e.Grading >= 3) {
             const element = document.createElement("h4");
             const elementNode = document.createTextNode(e.Name);
             element.appendChild(elementNode);
