@@ -14,7 +14,7 @@ async function getData() {
   // Convert the remaining lines to an array of objects
   const data = lines.slice(1).map((line) => {
     // Split the line into an array of values
-    const values = line.split(",");
+    const values = line.split(/,(?=(?:(?:[^"]*"){2})*[^"]*$)/);
 
     // Reduce the array of values to an object
     return values.reduce((obj, value, i) => {
