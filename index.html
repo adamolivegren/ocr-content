@@ -47,7 +47,6 @@
       let ingredients;
       getData().then((result) => {
         ingredients = result;
-        console.log(ingredients);
       });
 
       /* REMOVE: used for testing */
@@ -109,6 +108,9 @@
       };
 
       const printResult = (text) => {
+        let array = text.split(",");
+        array = array.map((element) => element.trim());
+        console.log(array);
         let warning = false;
         const result = document.querySelector(".result");
         const header = document.createElement("h2");
@@ -119,7 +121,7 @@
         result.appendChild(header);
 
         ingredients.forEach((e) => {
-          if (text.includes(e.Name) && e.Name && e.Grading >= 3) {
+          if (array.includes(e.Name) && e.Name && e.Grading >= 3) {
             const element = document.createElement("h4");
             const elementNode = document.createTextNode(e.Name);
             element.appendChild(elementNode);
@@ -139,15 +141,15 @@
           }
         });
 
-        let recommendation = "";
-        warning
-          ? (recommendation = "⛔️ Rekommenderas inte!")
-          : (recommendation = "✅ Produkten är OK!");
+        // let recommendation = "";
+        // warning
+        //   ? (recommendation = "⛔️ Rekommenderas inte!")
+        //   : (recommendation = "✅ Produkten är OK!");
 
-        const reco = document.createElement("h3");
-        const recoNode = document.createTextNode(recommendation);
-        reco.appendChild(recoNode);
-        document.querySelector(".result").appendChild(reco);
+        // const reco = document.createElement("h3");
+        // const recoNode = document.createTextNode(recommendation);
+        // reco.appendChild(recoNode);
+        // document.querySelector(".result").appendChild(reco);
       };
 
       function showLoadingAnimation() {
@@ -162,6 +164,7 @@
         showLoadingAnimation();
         Tesseract.recognize(img, "eng").then(
           ({ data: { text, hocr, tsv, blocks } }) => {
+            console.log(text);
             hideLoadingAnimation();
             printResult(text);
             document.querySelector(".ocr-button").style.display = "none";
