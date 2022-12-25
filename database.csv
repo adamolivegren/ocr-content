@@ -1,617 +1,378 @@
-Name,Andra namn,Andra namn,Desc,Grading,Antal förekomster,Källa,,
-Vatten,,,Detta är vatten,1,1,,,
-Water,,,Detta är vatten,1,1,,,
-Aqua,,,Detta är vatten,1,6,,Grading,Beskrivning
-Sodium Laureth Sulfate,,,"Det är möjligt att sodiumlaurylsulfat (SLS) kan vara skadligt för huden i vissa situationer. SLS är en vanligt förekommande tensid som används i många tvålar och rengöringsprodukter för att skapa skum och förbättra rengöringsförmågan. Det kan emellertid irritera huden och torka ut den, vilket kan leda till torrhet, klåda och rodnad. Om du upplever några av dessa symtom efter att ha använt en produkt som innehåller SLS, bör du prata med en hudläkare eller prova att använda en produkt som inte innehåller detta ämne.",3,5,,1,Neutral eller bra
-SLS,,,"Det är möjligt att sodiumlaurylsulfat (SLS) kan vara skadligt för huden i vissa situationer. SLS är en vanligt förekommande tensid som används i många tvålar och rengöringsprodukter för att skapa skum och förbättra rengöringsförmågan. Det kan emellertid irritera huden och torka ut den, vilket kan leda till torrhet, klåda och rodnad. Om du upplever några av dessa symtom efter att ha använt en produkt som innehåller SLS, bör du prata med en hudläkare eller prova att använda en produkt som inte innehåller detta ämne.",3,0,,2,Kan vara dålig
-Natriumlauretsulfat,,,"Det är möjligt att sodiumlaurylsulfat (SLS) kan vara skadligt för huden i vissa situationer. SLS är en vanligt förekommande tensid som används i många tvålar och rengöringsprodukter för att skapa skum och förbättra rengöringsförmågan. Det kan emellertid irritera huden och torka ut den, vilket kan leda till torrhet, klåda och rodnad. Om du upplever några av dessa symtom efter att ha använt en produkt som innehåller SLS, bör du prata med en hudläkare eller prova att använda en produkt som inte innehåller detta ämne.",3,0,,3,Bör undvikas
-Glycerin,,,"Används i det mesta, inte farligt",1,6,,,
-Cocamidopropyl Betaine,,,"Det är möjligt att Cocamidopropyl Betaine (CAPB) kan vara skadligt för huden i vissa situationer. CAPB är en tensid som används i många tvålar och rengöringsprodukter för att förbättra deras rengöringsförmåga. Det har dock rapporterats att det kan orsaka hudirritation och allergiska reaktioner hos vissa personer. Om du upplever några av dessa symtom efter att ha använt en produkt som innehåller CAPB, bör du prata med en hudläkare eller prova att använda en produkt som inte innehåller detta ämne.
-
-
-
-",3,5,,,
-CocamidopropylBetaine,,,"Det är möjligt att Cocamidopropyl Betaine (CAPB) kan vara skadligt för huden i vissa situationer. CAPB är en tensid som används i många tvålar och rengöringsprodukter för att förbättra deras rengöringsförmåga. Det har dock rapporterats att det kan orsaka hudirritation och allergiska reaktioner hos vissa personer. Om du upplever några av dessa symtom efter att ha använt en produkt som innehåller CAPB, bör du prata med en hudläkare eller prova att använda en produkt som inte innehåller detta ämne.
-
-
-
-",3,0,,,
-Glycol Distearate,,,"Glycol distearate är en kemikalie som används som emulgeringsmedel i många olika kosmetiska produkter, såsom lotioner, tvålar och schampo. Det hjälper till att hålla olika ingredienser i produkten blandade och ger en krämig konsistens. I små mängder är glycol distearate ofarligt för huden, men i större mängder kan det vara skadligt. Det kan orsaka irritation och klåda, och i vissa fall kan det även orsaka allergiska reaktioner. Det är därför viktigt att använda produkter som innehåller glycol distearate med försiktighet, och att undvika att använda produkter som innehåller för mycket av den kemikalien.",2,3,,,
-Citric Acid,,,"Bra för städning, men farligt i stora mänger",1,7,,,
-Sodium Chloride,,,"Detta är vanligt koksalt, och inte farligt om det inte är stora mängder",1,4,,,
-Sodium Benzoate,,,"Sodium benzoate är en kemikalie som används som konserveringsmedel i många olika produkter, såsom mat, dryck, läkemedel och kosmetiska produkter. I små mängder är sodium benzoate ofarligt, men i större mängder kan det vara skadligt för huden. Det kan orsaka irritation och klåda, och i vissa fall kan det även orsaka allergiska reaktioner. Det är därför viktigt att använda produkter som innehåller sodium benzoate med försiktighet, och att undvika att använda produkter som innehåller för mycket av den kemikalien.",2,4,,,
-Parfum,,,"aldrig bra, men inte så farligt",2,7,,,
-Lactic Acid,,,,?,1,,,
-Laureth-4,,,,?,1,,,
-PPG-6,,,PPG och PEG är så kallade etoxilerade ingredienser som framställs i tunga kemiska processer som kräver mycket stränga säkerhetsåtgärder. PEG framställs syntetiskt av propangas.,3,1,,,
-Tetrasodium EDTA,,,,?,2,,,
-Hexyl Cinnamal,,,,?,5,,,
-PAPs,,,,3,0,,,
-PFCA,,,,3,0,,,
-diPAPs,,,,3,0,,,
-FTOH,,,,3,0,,,
-PTFE,,,,3,0,,,
-Teflon,,,,3,0,,,
-PFOA,,,,3,0,,,
-PFHxA,,,,3,0,,,
-PFAS,,,,3,0,,,
-Fluorerade polymerer,,,,3,0,,,
-6:2 fluortelomerer,,,,3,0,,,
-PFOA,,,,3,0,,,
-BHT,,,Hormonstörande,3,0,,,
-Ethylhexyl Methoxycinnamate,,,Hormonstörande,3,0,,,
-Ethylparaben,,,Hormonstörande,3,0,,,
-Methylparaben,,,Hormonstörande,3,0,,,
-Amylcinnamyl Alcohol,,,Allergiframkallande,3,0,,,
-Aplha-Isomethyl Ionone,,,Allergiframkallande,3,0,,,
-Benzyl Alcohol,,,Allergiframkallande,3,2,,,
-Benzyl Benzoate,,,Allergiframkallande,3,0,,,
-Benzyl Cinnamate,,,Allergiframkallande,3,0,,,
-Benzyl Salicylate,,,Allergiframkallande,3,3,,,
-Butylphenyl Methylpropional,,,Allergiframkallande,3,1,,,
-Citral,,,Allergiframkallande,3,1,,,
-Citronnellol,,,Allergiframkallande,3,0,,,
-Citrus Aurantium Dulcis Flower Extract,,,Allergiframkallande,3,0,,,
-Coumarin,,,Allergiframkallande,3,1,,,
-Geraniol,,,Allergiframkallande,3,1,,,
-Hexyl Cinnamal,,,Allergiframkallande,3,5,,,
-Methylchloroisothiazolinone,,,Allergiframkallande,3,0,,,
-Methylisothiazolinone,,,Allergiframkallande,4,0,,,
-MI,,,Allergiframkallande,4,0,,,
-Methylisothiazolinone (MI),,,Allergiframkallande,4,0,,,
-Methylisothiazolinone,,,Allergiframkallande,3,0,,,
-Propylparaben,,,Allergiframkallande,3,0,,,
-Benzophenone-4,,,Allergiframkallande,3,0,,,
-Propylparaben,,,Allergiframkallande,3,0,,,
-Parfym,,,Allergiframkallande,3,0,,,
-Phenoxyethanol,,,Allergiframkallande,3,2,,,
-Callendula officinalis flower extract,,,Hormonstörande,3,0,,,
-Benzyl salicylate,,,"Vissa parfymämnen kan vara irriterande för huden eller kan ge upphov till allergiska reaktioner hos vissa individer. Därför är det viktigt att välja parfymämnen som är säkra att använda i produkter som ska användas på kroppen, och att använda dessa ämnen i låga koncentrationer.",3,3,,,
-Citral,,,"Vissa parfymämnen kan vara irriterande för huden eller kan ge upphov till allergiska reaktioner hos vissa individer. Därför är det viktigt att välja parfymämnen som är säkra att använda i produkter som ska användas på kroppen, och att använda dessa ämnen i låga koncentrationer.",3,1,,,
-Coumarin,,,"Vissa parfymämnen kan vara irriterande för huden eller kan ge upphov till allergiska reaktioner hos vissa individer. Därför är det viktigt att välja parfymämnen som är säkra att använda i produkter som ska användas på kroppen, och att använda dessa ämnen i låga koncentrationer.",3,1,,,
-Hydroxyisohexyl 3-cyclohexene carboxaldehyde,,,"Vissa parfymämnen kan vara irriterande för huden eller kan ge upphov till allergiska reaktioner hos vissa individer. Därför är det viktigt att välja parfymämnen som är säkra att använda i produkter som ska användas på kroppen, och att använda dessa ämnen i låga koncentrationer.",3,0,,,
-Methylisothiazolinone,,,Konserveringsmedel och kan därför vara irreterande för huden och ge upphov till allergiska reaktioner hos vissa individer,3,0,,,
-Methylchloroisothiazolinone,,,Konserveringsmedel och kan därför vara irreterande för huden och ge upphov till allergiska reaktioner hos vissa individer,3,0,,,
-Formaldehyde,,,Konserveringsmedel och kan därför vara irreterande för huden och ge upphov till allergiska reaktioner hos vissa individer,3,0,,,
-Imidazolidinyl urea,,,Konserveringsmedel och kan därför vara irreterande för huden och ge upphov till allergiska reaktioner hos vissa individer,3,0,,,
-Diazolidinyl urea,,,Konserveringsmedel och kan därför vara irreterande för huden och ge upphov till allergiska reaktioner hos vissa individer,3,0,,,
-DMDM hydantoin,,,Konserveringsmedel och kan därför vara irreterande för huden och ge upphov till allergiska reaktioner hos vissa individer,3,0,,,
-Ammonium C6-16 Perfluoroalkylethyl Phosphate,,,,3,0,,,
-Polyperfluoroethoxymethoxy difluoroethyl PEG phosphate,,,,3,0,,,
-Polyperfluoromethylisopropyl ether,,,,3,0,,,
-Perfluorononyl dimethicone,,,,3,0,,,
-Polytef,,,,3,0,,,
-PEG,,,,3,0,,,
-PTFE,,,,3,0,,,
-polyethylene glucol),,,,3,0,,,
-SLS,,,,3,0,,,
-methylParaben,,,,3,0,,,
-Paraben,,,,3,0,,,
-butylparaben,,,,3,0,,,
-ethylParaben,,,,3,0,,,
-propylParaben,,,,3,0,,,
-parrafin,,,,3,0,,,
-Lauramide DEA,,,,3,0,,,
-Cocamide DEA,,,,3,0,,,
-DEA,,,,3,0,,,
-MEA,,,,3,0,,,
-triethanolamine,,,,3,0,,,
-TEA,,,,3,0,,,
-Formaldehyd,,,,3,0,,,
-Glyoxal,,,,3,0,,,
-Glutaral,,,,3,0,,,
-Phenoxyglycerin,,,,3,0,,,
-Fhenoxyetanol,,,,3,0,,,
-BHT,,,,3,0,,,
-BHA,,,,3,0,,,
-Propylenglykol,,,,3,0,,,
-Tensid,,,,3,0,,,
-,,,,,0,,,
-Sodium Lauryl Sulfate,,,,3,1,,,
-SLS,,,,3,0,,,
-SLES,,,,3,0,,,
-Magnesium Laureth Sulfate,,,,3,0,,,
-C12-13 Alcohols,,,"C12-13 alcohols är en grupp alkoholer som används som emulgeringsmedel och vårdande ämne i många olika kosmetiska produkter, såsom lotioner, tvålar och hårvårdsprodukter. De hjälper till att hålla olika ingredienser i produkten blandade och ger en krämig konsistens, och de kan också hjälpa till att återfukta huden. I små mängder är C12-13 alcohols ofarliga för huden, men i större mängder kan de vara skadliga. De kan orsaka irritation och klåda, och i vissa fall kan de även orsaka allergiska reaktioner. Det är därför viktigt att använda produkter som innehåller C12-13 alcohols med försiktighet, och att undvika att använda produkter som innehåller för mycket av den kemikalien.",3,1,,,
-Methylchloroisothiazolinon,,,,3,0,,,
-Methylisothiazolinon,,,,3,0,,,
-2-bromo-2-nitropropan-1,,,,3,0,,,
-3-diol,,,,3,0,,,
-diazolidinyl urea,,,,3,0,,,
-DMDM hydantoin,,,,3,0,,,
-imidazolidinyl urea,,,,3,0,,,
-quaternium 15,,,,3,0,,,
-p-Phenylenediamine,,,(giftigt hårfärgande ämne),3,0,,,
-Xylene,,,(lösningsmedel i bla. nagellack),3,0,,,
-Methyldibromo Glutaronitrille,,,,3,0,,,
-Laurylpyridinium Chloride,,,,3,0,,,
-Dichlorobenzyl Alcohol,,,,3,0,,,
-Diazlidinyl Urea,,,,3,0,,,
-Bromochlorophene,,,,3,0,,,
-Chlorphenesin,,,,3,0,,,
-Chlorothymol,,,,3,0,,,
-Trideceth,,,,3,0,,,
-Steareth,,,,3,0,,,
-Laureth,,,,3,0,,,
-Ceteareth,,,,3,0,,,
-Glyceret,,,,3,0,,,
-Propylparaben,,,,3,0,,,
-Methylparaben,,,,3,0,,,
-Cetearyl alcohol,,,"Cetearyl alcohol är en kemikalie som används som emulgeringsmedel och vårdande ämne i många olika kosmetiska produkter, såsom lotioner, tvålar och hårvårdsprodukter. Det hjälper till att hålla olika ingredienser i produkten blandade och ger en krämig konsistens, och det kan också hjälpa till att återfukta huden. I små mängder är cetearyl alcohol ofarligt för huden, men i större mängder kan det vara skadligt. Det kan orsaka irritation och klåda, och i vissa fall kan det även orsaka allergiska reaktioner. Det är därför viktigt att använda produkter som innehåller cetearyl alcohol med försiktighet, och att undvika att använda produkter som innehåller för mycket av den kemikalien.",2,2,,,
-C12-13 Alkyl Lactate,,,"C12-13 alkyl lactate är en kemikalie som används som emulgeringsmedel och vårdande ämne i många olika kosmetiska produkter, såsom lotioner, tvålar och hårvårdsprodukter. Den hjälper till att hålla olika ingredienser i produkten blandade och ger en krämig konsistens, och den kan också hjälpa till att återfukta huden. I små mängder är C12-13 alkyl lactate ofarligt för huden, men i större mängder kan det vara skadligt. Det kan orsaka irritation och klåda, och i vissa fall kan det även orsaka allergiska reaktioner. Det är därför viktigt att använda produkter som innehåller C12-13 alkyl lactate med försiktighet, och att undvika att använda produkter som innehåller för mycket av den kemikalien.",3,1,,,
-PEG-6 Caprylic,,,,3,1,,,
-Fragrance,,,,2,2,,,
-PEG-4 Rapeseedamide,,,,3,2,,,
-Capric glycerides,,,"Capric glycerides är en kemikalie som används som emulgeringsmedel och vårdande ämne i många olika kosmetiska produkter, såsom lotioner, tvålar och hårvårdsprodukter. Den hjälper till att hålla olika ingredienser i produkten blandade och ger en krämig konsistens, och den kan också hjälpa till att återfukta huden. I små mängder är capric glycerides ofarliga för huden, men i större mängder kan de vara skadliga. De kan orsaka irritation och klåda, och i vissa fall kan de även orsaka allergiska reaktioner. Det är därför viktigt att använda produkter som innehåller capric glycerides med försiktighet, och att undvika att använda produkter som innehåller för mycket av den kemikalien.",2,1,,,
-dibutyl,,,Ftalater är mjukgörande kemikalier som används mycket i plast. Vet ni vad? Samma används även i bland annat smink och hårvård. Dessa är tyvärr svåra att spåra. Därav är det alltid bäst att köpa naturlig kroppsvård. Det kan skrivas ut som dibutyl och diethylhexyl.,3,0,,,
-diethylhexyl,,,Ftalater är mjukgörande kemikalier som används mycket i plast. Vet ni vad? Samma används även i bland annat smink och hårvård. Dessa är tyvärr svåra att spåra. Därav är det alltid bäst att köpa naturlig kroppsvård. Det kan skrivas ut som dibutyl och diethylhexyl.,3,0,,,
-PEG-4 Rai Lauryl Glucoside,,,"PEG-4 Rapeseedamide (also known as PEG-4 rapeseed oil amide or PEG-4 railyl glucoside) is a surfactant that is commonly used in personal care products such as shampoos, body washes, and facial cleansers. It is generally considered safe for use in personal care products, but some people may experience allergic reactions to it. Symptoms of an allergic reaction to PEG-4 Rapeseedamide may include redness, itching, and swelling of the skin, as well as difficulty breathing. If you experience any of these symptoms after using a product containing PEG-4 Rapeseedamide, you should stop using the product and consult a healthcare professional. It is also worth noting that PEG-4 Rapeseedamide is a synthetic compound and its long-term effects on human health are not well understood. Some studies have suggested that it may be a mild skin irritant, particularly at high concentrations. However, the concentrations of PEG-4 Rapeseedamide used in personal care products are typically low and are not expected to cause harm. As with any personal care product, it is always a good idea to use them in moderation and to follow the instructions for use.",3,1,,,
-PTFE,,,,4,0,,,
-polytef,,,,4,0,,,
-perfluoro,,,,4,0,,,
-polyfluoro,,,,4,0,,,
-Decafluoropentane,,,,4,0,,,
-C9-15,,,,4,0,,,
-C8-18,,,,4,0,,,
-fluoroalcohol,,,,4,0,,,
-benzoic acid,,,"Parabener är en grupp av kemiska ämnen som används som konserveringsmedel i kosmetiska produkter, men även i livsmedel och läkemedel.
-Det gemensamma för alla parabener är den kemiska grundstruktur bensoesyra.
-Bensoesyra är ett ämne som finns i växter och bär såsom lingon, hjortron och tranbär.
-Bensoesyra kan utlösa icke-allergisk överkänslighet.
-I början på 2000-talet publicerades alarmerande rapporter om parabener. Rapporterna påstod att parabener var allergiframkallande, hormonstörande och även cancerframkallande. Tillverkarna har då börjat leta efter ersättningar.
-2014 bestämde EU att förbjuda vissa parabener, nämligen isopropylparaben, isobutylparaben, pentylparaben, phenylparaben och benzylparaben.
-För andra parabener har EU har skärpt sina regler så att de maximalt tillåtna halterna sänks och att användningen i barnprodukter (0-3 år) begränsas.
-Följande parabener är hormonstörande och tillåts i kosmetiska produkter i låga halter:
-Propylparaben
-Butylparaben",3,1,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/,,
-benzene carboxylic acid,,,"Parabener är en grupp av kemiska ämnen som används som konserveringsmedel i kosmetiska produkter, men även i livsmedel och läkemedel.
-Det gemensamma för alla parabener är den kemiska grundstruktur bensoesyra.
-Bensoesyra är ett ämne som finns i växter och bär såsom lingon, hjortron och tranbär.
-Bensoesyra kan utlösa icke-allergisk överkänslighet.
-I början på 2000-talet publicerades alarmerande rapporter om parabener. Rapporterna påstod att parabener var allergiframkallande, hormonstörande och även cancerframkallande. Tillverkarna har då börjat leta efter ersättningar.
-2014 bestämde EU att förbjuda vissa parabener, nämligen isopropylparaben, isobutylparaben, pentylparaben, phenylparaben och benzylparaben.
-För andra parabener har EU har skärpt sina regler så att de maximalt tillåtna halterna sänks och att användningen i barnprodukter (0-3 år) begränsas.
-Följande parabener är hormonstörande och tillåts i kosmetiska produkter i låga halter:
-Propylparaben
-Butylparaben",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/,,
-henylformic acid,,,"Parabener är en grupp av kemiska ämnen som används som konserveringsmedel i kosmetiska produkter, men även i livsmedel och läkemedel.
-Det gemensamma för alla parabener är den kemiska grundstruktur bensoesyra.
-Bensoesyra är ett ämne som finns i växter och bär såsom lingon, hjortron och tranbär.
-Bensoesyra kan utlösa icke-allergisk överkänslighet.
-I början på 2000-talet publicerades alarmerande rapporter om parabener. Rapporterna påstod att parabener var allergiframkallande, hormonstörande och även cancerframkallande. Tillverkarna har då börjat leta efter ersättningar.
-2014 bestämde EU att förbjuda vissa parabener, nämligen isopropylparaben, isobutylparaben, pentylparaben, phenylparaben och benzylparaben.
-För andra parabener har EU har skärpt sina regler så att de maximalt tillåtna halterna sänks och att användningen i barnprodukter (0-3 år) begränsas.
-Följande parabener är hormonstörande och tillåts i kosmetiska produkter i låga halter:
-Propylparaben
-Butylparaben",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/,,
-Benzeneformic acid,,,"Parabener är en grupp av kemiska ämnen som används som konserveringsmedel i kosmetiska produkter, men även i livsmedel och läkemedel.
-Det gemensamma för alla parabener är den kemiska grundstruktur bensoesyra.
-Bensoesyra är ett ämne som finns i växter och bär såsom lingon, hjortron och tranbär.
-Bensoesyra kan utlösa icke-allergisk överkänslighet.
-I början på 2000-talet publicerades alarmerande rapporter om parabener. Rapporterna påstod att parabener var allergiframkallande, hormonstörande och även cancerframkallande. Tillverkarna har då börjat leta efter ersättningar.
-2014 bestämde EU att förbjuda vissa parabener, nämligen isopropylparaben, isobutylparaben, pentylparaben, phenylparaben och benzylparaben.
-För andra parabener har EU har skärpt sina regler så att de maximalt tillåtna halterna sänks och att användningen i barnprodukter (0-3 år) begränsas.
-Följande parabener är hormonstörande och tillåts i kosmetiska produkter i låga halter:
-Propylparaben
-Butylparaben",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/,,
-Phenylcarboxylic acid,,,"Parabener är en grupp av kemiska ämnen som används som konserveringsmedel i kosmetiska produkter, men även i livsmedel och läkemedel.
-Det gemensamma för alla parabener är den kemiska grundstruktur bensoesyra.
-Bensoesyra är ett ämne som finns i växter och bär såsom lingon, hjortron och tranbär.
-Bensoesyra kan utlösa icke-allergisk överkänslighet.
-I början på 2000-talet publicerades alarmerande rapporter om parabener. Rapporterna påstod att parabener var allergiframkallande, hormonstörande och även cancerframkallande. Tillverkarna har då börjat leta efter ersättningar.
-2014 bestämde EU att förbjuda vissa parabener, nämligen isopropylparaben, isobutylparaben, pentylparaben, phenylparaben och benzylparaben.
-För andra parabener har EU har skärpt sina regler så att de maximalt tillåtna halterna sänks och att användningen i barnprodukter (0-3 år) begränsas.
-Följande parabener är hormonstörande och tillåts i kosmetiska produkter i låga halter:
-Propylparaben
-Butylparaben",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/,,
-Benzene carboxylic acid,,,"Parabener är en grupp av kemiska ämnen som används som konserveringsmedel i kosmetiska produkter, men även i livsmedel och läkemedel.
-Det gemensamma för alla parabener är den kemiska grundstruktur bensoesyra.
-Bensoesyra är ett ämne som finns i växter och bär såsom lingon, hjortron och tranbär.
-Bensoesyra kan utlösa icke-allergisk överkänslighet.
-I början på 2000-talet publicerades alarmerande rapporter om parabener. Rapporterna påstod att parabener var allergiframkallande, hormonstörande och även cancerframkallande. Tillverkarna har då börjat leta efter ersättningar.
-2014 bestämde EU att förbjuda vissa parabener, nämligen isopropylparaben, isobutylparaben, pentylparaben, phenylparaben och benzylparaben.
-För andra parabener har EU har skärpt sina regler så att de maximalt tillåtna halterna sänks och att användningen i barnprodukter (0-3 år) begränsas.
-Följande parabener är hormonstörande och tillåts i kosmetiska produkter i låga halter:
-Propylparaben
-Butylparaben",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/,,
-Benzoyl acid,,,"Parabener är en grupp av kemiska ämnen som används som konserveringsmedel i kosmetiska produkter, men även i livsmedel och läkemedel.
-Det gemensamma för alla parabener är den kemiska grundstruktur bensoesyra.
-Bensoesyra är ett ämne som finns i växter och bär såsom lingon, hjortron och tranbär.
-Bensoesyra kan utlösa icke-allergisk överkänslighet.
-I början på 2000-talet publicerades alarmerande rapporter om parabener. Rapporterna påstod att parabener var allergiframkallande, hormonstörande och även cancerframkallande. Tillverkarna har då börjat leta efter ersättningar.
-2014 bestämde EU att förbjuda vissa parabener, nämligen isopropylparaben, isobutylparaben, pentylparaben, phenylparaben och benzylparaben.
-För andra parabener har EU har skärpt sina regler så att de maximalt tillåtna halterna sänks och att användningen i barnprodukter (0-3 år) begränsas.
-Följande parabener är hormonstörande och tillåts i kosmetiska produkter i låga halter:
-Propylparaben
-Butylparaben",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/,,
-"Carbonic acid, phenyl ester",,,"Parabener är en grupp av kemiska ämnen som används som konserveringsmedel i kosmetiska produkter, men även i livsmedel och läkemedel.
-Det gemensamma för alla parabener är den kemiska grundstruktur bensoesyra.
-Bensoesyra är ett ämne som finns i växter och bär såsom lingon, hjortron och tranbär.
-Bensoesyra kan utlösa icke-allergisk överkänslighet.
-I början på 2000-talet publicerades alarmerande rapporter om parabener. Rapporterna påstod att parabener var allergiframkallande, hormonstörande och även cancerframkallande. Tillverkarna har då börjat leta efter ersättningar.
-2014 bestämde EU att förbjuda vissa parabener, nämligen isopropylparaben, isobutylparaben, pentylparaben, phenylparaben och benzylparaben.
-För andra parabener har EU har skärpt sina regler så att de maximalt tillåtna halterna sänks och att användningen i barnprodukter (0-3 år) begränsas.
-Följande parabener är hormonstörande och tillåts i kosmetiska produkter i låga halter:
-Propylparaben
-Butylparaben",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/,,
-Carboxybenzene,,,"Parabener är en grupp av kemiska ämnen som används som konserveringsmedel i kosmetiska produkter, men även i livsmedel och läkemedel.
-Det gemensamma för alla parabener är den kemiska grundstruktur bensoesyra.
-Bensoesyra är ett ämne som finns i växter och bär såsom lingon, hjortron och tranbär.
-Bensoesyra kan utlösa icke-allergisk överkänslighet.
-I början på 2000-talet publicerades alarmerande rapporter om parabener. Rapporterna påstod att parabener var allergiframkallande, hormonstörande och även cancerframkallande. Tillverkarna har då börjat leta efter ersättningar.
-2014 bestämde EU att förbjuda vissa parabener, nämligen isopropylparaben, isobutylparaben, pentylparaben, phenylparaben och benzylparaben.
-För andra parabener har EU har skärpt sina regler så att de maximalt tillåtna halterna sänks och att användningen i barnprodukter (0-3 år) begränsas.
-Följande parabener är hormonstörande och tillåts i kosmetiska produkter i låga halter:
-Propylparaben
-Butylparaben",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/,,
-Benzolcarboxylic acid,,,"Parabener är en grupp av kemiska ämnen som används som konserveringsmedel i kosmetiska produkter, men även i livsmedel och läkemedel.
-Det gemensamma för alla parabener är den kemiska grundstruktur bensoesyra.
-Bensoesyra är ett ämne som finns i växter och bär såsom lingon, hjortron och tranbär.
-Bensoesyra kan utlösa icke-allergisk överkänslighet.
-I början på 2000-talet publicerades alarmerande rapporter om parabener. Rapporterna påstod att parabener var allergiframkallande, hormonstörande och även cancerframkallande. Tillverkarna har då börjat leta efter ersättningar.
-2014 bestämde EU att förbjuda vissa parabener, nämligen isopropylparaben, isobutylparaben, pentylparaben, phenylparaben och benzylparaben.
-För andra parabener har EU har skärpt sina regler så att de maximalt tillåtna halterna sänks och att användningen i barnprodukter (0-3 år) begränsas.
-Följande parabener är hormonstörande och tillåts i kosmetiska produkter i låga halter:
-Propylparaben
-Butylparaben",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/,,
-Benzyl carboxylate,,,"Parabener är en grupp av kemiska ämnen som används som konserveringsmedel i kosmetiska produkter, men även i livsmedel och läkemedel.
-Det gemensamma för alla parabener är den kemiska grundstruktur bensoesyra.
-Bensoesyra är ett ämne som finns i växter och bär såsom lingon, hjortron och tranbär.
-Bensoesyra kan utlösa icke-allergisk överkänslighet.
-I början på 2000-talet publicerades alarmerande rapporter om parabener. Rapporterna påstod att parabener var allergiframkallande, hormonstörande och även cancerframkallande. Tillverkarna har då börjat leta efter ersättningar.
-2014 bestämde EU att förbjuda vissa parabener, nämligen isopropylparaben, isobutylparaben, pentylparaben, phenylparaben och benzylparaben.
-För andra parabener har EU har skärpt sina regler så att de maximalt tillåtna halterna sänks och att användningen i barnprodukter (0-3 år) begränsas.
-Följande parabener är hormonstörande och tillåts i kosmetiska produkter i låga halter:
-Propylparaben
-Butylparaben",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/,,
-Bensoesyra,,,"Parabener är en grupp av kemiska ämnen som används som konserveringsmedel i kosmetiska produkter, men även i livsmedel och läkemedel.
-Det gemensamma för alla parabener är den kemiska grundstruktur bensoesyra.
-Bensoesyra är ett ämne som finns i växter och bär såsom lingon, hjortron och tranbär.
-Bensoesyra kan utlösa icke-allergisk överkänslighet.
-I början på 2000-talet publicerades alarmerande rapporter om parabener. Rapporterna påstod att parabener var allergiframkallande, hormonstörande och även cancerframkallande. Tillverkarna har då börjat leta efter ersättningar.
-2014 bestämde EU att förbjuda vissa parabener, nämligen isopropylparaben, isobutylparaben, pentylparaben, phenylparaben och benzylparaben.
-För andra parabener har EU har skärpt sina regler så att de maximalt tillåtna halterna sänks och att användningen i barnprodukter (0-3 år) begränsas.
-Följande parabener är hormonstörande och tillåts i kosmetiska produkter i låga halter:
-Propylparaben
-Butylparaben",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/,,
-Alpha-Isomethyl Ionone,,,"Många kosmetika och hygienprodukter innehåller doftämnen.
-Forskning visar att doftämnen kan orsaka kontaktallergi, oavsett om ämnena är syntetiska eller naturliga (eteriska oljor).
-Bestämmelserna för användning av parfymer i produkterna har gradvis blivit strängare inom EU.
-De flesta doftämnena behöver inte redovisas med sina namn i innehållsdeklarationen, utan de kan samlas under den generella beteckningen ”parfum”.
-26 doftämnen är så pass allergiframkallande att de måste skrivas ut på flaskan:
-",3,1,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/,,
-Amyl Cinnamal,,,"Många kosmetika och hygienprodukter innehåller doftämnen.
-Forskning visar att doftämnen kan orsaka kontaktallergi, oavsett om ämnena är syntetiska eller naturliga (eteriska oljor).
-Bestämmelserna för användning av parfymer i produkterna har gradvis blivit strängare inom EU.
-De flesta doftämnena behöver inte redovisas med sina namn i innehållsdeklarationen, utan de kan samlas under den generella beteckningen ”parfum”.
-26 doftämnen är så pass allergiframkallande att de måste skrivas ut på flaskan:
-",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/,,
-Amylcinnamyl Alcohol,,,"Många kosmetika och hygienprodukter innehåller doftämnen.
-Forskning visar att doftämnen kan orsaka kontaktallergi, oavsett om ämnena är syntetiska eller naturliga (eteriska oljor).
-Bestämmelserna för användning av parfymer i produkterna har gradvis blivit strängare inom EU.
-De flesta doftämnena behöver inte redovisas med sina namn i innehållsdeklarationen, utan de kan samlas under den generella beteckningen ”parfum”.
-26 doftämnen är så pass allergiframkallande att de måste skrivas ut på flaskan:
-",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/,,
-Anise Alcohol,,,"Många kosmetika och hygienprodukter innehåller doftämnen.
-Forskning visar att doftämnen kan orsaka kontaktallergi, oavsett om ämnena är syntetiska eller naturliga (eteriska oljor).
-Bestämmelserna för användning av parfymer i produkterna har gradvis blivit strängare inom EU.
-De flesta doftämnena behöver inte redovisas med sina namn i innehållsdeklarationen, utan de kan samlas under den generella beteckningen ”parfum”.
-26 doftämnen är så pass allergiframkallande att de måste skrivas ut på flaskan:
-",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/,,
-Avernia Furfuracea (Treemoss Exctract),,,"Många kosmetika och hygienprodukter innehåller doftämnen.
-Forskning visar att doftämnen kan orsaka kontaktallergi, oavsett om ämnena är syntetiska eller naturliga (eteriska oljor).
-Bestämmelserna för användning av parfymer i produkterna har gradvis blivit strängare inom EU.
-De flesta doftämnena behöver inte redovisas med sina namn i innehållsdeklarationen, utan de kan samlas under den generella beteckningen ”parfum”.
-26 doftämnen är så pass allergiframkallande att de måste skrivas ut på flaskan:
-",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/,,
-Benzyl Alcohol,,,"Många kosmetika och hygienprodukter innehåller doftämnen.
-Forskning visar att doftämnen kan orsaka kontaktallergi, oavsett om ämnena är syntetiska eller naturliga (eteriska oljor).
-Bestämmelserna för användning av parfymer i produkterna har gradvis blivit strängare inom EU.
-De flesta doftämnena behöver inte redovisas med sina namn i innehållsdeklarationen, utan de kan samlas under den generella beteckningen ”parfum”.
-26 doftämnen är så pass allergiframkallande att de måste skrivas ut på flaskan:
-",3,2,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/,,
-Benzyl Benzoate,,,"Många kosmetika och hygienprodukter innehåller doftämnen.
-Forskning visar att doftämnen kan orsaka kontaktallergi, oavsett om ämnena är syntetiska eller naturliga (eteriska oljor).
-Bestämmelserna för användning av parfymer i produkterna har gradvis blivit strängare inom EU.
-De flesta doftämnena behöver inte redovisas med sina namn i innehållsdeklarationen, utan de kan samlas under den generella beteckningen ”parfum”.
-26 doftämnen är så pass allergiframkallande att de måste skrivas ut på flaskan:
-",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/,,
-Benzyl Cinnamate,,,"Många kosmetika och hygienprodukter innehåller doftämnen.
-Forskning visar att doftämnen kan orsaka kontaktallergi, oavsett om ämnena är syntetiska eller naturliga (eteriska oljor).
-Bestämmelserna för användning av parfymer i produkterna har gradvis blivit strängare inom EU.
-De flesta doftämnena behöver inte redovisas med sina namn i innehållsdeklarationen, utan de kan samlas under den generella beteckningen ”parfum”.
-26 doftämnen är så pass allergiframkallande att de måste skrivas ut på flaskan:
-",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/,,
-Benzyl Salicylate,,,"Många kosmetika och hygienprodukter innehåller doftämnen.
-Forskning visar att doftämnen kan orsaka kontaktallergi, oavsett om ämnena är syntetiska eller naturliga (eteriska oljor).
-Bestämmelserna för användning av parfymer i produkterna har gradvis blivit strängare inom EU.
-De flesta doftämnena behöver inte redovisas med sina namn i innehållsdeklarationen, utan de kan samlas under den generella beteckningen ”parfum”.
-26 doftämnen är så pass allergiframkallande att de måste skrivas ut på flaskan:
-",3,3,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/,,
-Butyphenyl Methylpropional (Lilial),,,"Många kosmetika och hygienprodukter innehåller doftämnen.
-Forskning visar att doftämnen kan orsaka kontaktallergi, oavsett om ämnena är syntetiska eller naturliga (eteriska oljor).
-Bestämmelserna för användning av parfymer i produkterna har gradvis blivit strängare inom EU.
-De flesta doftämnena behöver inte redovisas med sina namn i innehållsdeklarationen, utan de kan samlas under den generella beteckningen ”parfum”.
-26 doftämnen är så pass allergiframkallande att de måste skrivas ut på flaskan:
-",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/,,
-Carboxaldehyde,,,"Många kosmetika och hygienprodukter innehåller doftämnen.
-Forskning visar att doftämnen kan orsaka kontaktallergi, oavsett om ämnena är syntetiska eller naturliga (eteriska oljor).
-Bestämmelserna för användning av parfymer i produkterna har gradvis blivit strängare inom EU.
-De flesta doftämnena behöver inte redovisas med sina namn i innehållsdeklarationen, utan de kan samlas under den generella beteckningen ”parfum”.
-26 doftämnen är så pass allergiframkallande att de måste skrivas ut på flaskan:
-",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/,,
-Cinnamal,,,"Många kosmetika och hygienprodukter innehåller doftämnen.
-Forskning visar att doftämnen kan orsaka kontaktallergi, oavsett om ämnena är syntetiska eller naturliga (eteriska oljor).
-Bestämmelserna för användning av parfymer i produkterna har gradvis blivit strängare inom EU.
-De flesta doftämnena behöver inte redovisas med sina namn i innehållsdeklarationen, utan de kan samlas under den generella beteckningen ”parfum”.
-26 doftämnen är så pass allergiframkallande att de måste skrivas ut på flaskan:
-",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/,,
-Cinnamal Alcohol,,,"Många kosmetika och hygienprodukter innehåller doftämnen.
-Forskning visar att doftämnen kan orsaka kontaktallergi, oavsett om ämnena är syntetiska eller naturliga (eteriska oljor).
-Bestämmelserna för användning av parfymer i produkterna har gradvis blivit strängare inom EU.
-De flesta doftämnena behöver inte redovisas med sina namn i innehållsdeklarationen, utan de kan samlas under den generella beteckningen ”parfum”.
-26 doftämnen är så pass allergiframkallande att de måste skrivas ut på flaskan:
-",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/,,
-Citral,,,"Många kosmetika och hygienprodukter innehåller doftämnen.
-Forskning visar att doftämnen kan orsaka kontaktallergi, oavsett om ämnena är syntetiska eller naturliga (eteriska oljor).
-Bestämmelserna för användning av parfymer i produkterna har gradvis blivit strängare inom EU.
-De flesta doftämnena behöver inte redovisas med sina namn i innehållsdeklarationen, utan de kan samlas under den generella beteckningen ”parfum”.
-26 doftämnen är så pass allergiframkallande att de måste skrivas ut på flaskan:
-",3,1,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/,,
-Citronellol,,,"Många kosmetika och hygienprodukter innehåller doftämnen.
-Forskning visar att doftämnen kan orsaka kontaktallergi, oavsett om ämnena är syntetiska eller naturliga (eteriska oljor).
-Bestämmelserna för användning av parfymer i produkterna har gradvis blivit strängare inom EU.
-De flesta doftämnena behöver inte redovisas med sina namn i innehållsdeklarationen, utan de kan samlas under den generella beteckningen ”parfum”.
-26 doftämnen är så pass allergiframkallande att de måste skrivas ut på flaskan:
-",3,2,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/,,
-Coumarin,,,"Många kosmetika och hygienprodukter innehåller doftämnen.
-Forskning visar att doftämnen kan orsaka kontaktallergi, oavsett om ämnena är syntetiska eller naturliga (eteriska oljor).
-Bestämmelserna för användning av parfymer i produkterna har gradvis blivit strängare inom EU.
-De flesta doftämnena behöver inte redovisas med sina namn i innehållsdeklarationen, utan de kan samlas under den generella beteckningen ”parfum”.
-26 doftämnen är så pass allergiframkallande att de måste skrivas ut på flaskan:
-",3,1,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/,,
-Eugenol,,,"Många kosmetika och hygienprodukter innehåller doftämnen.
-Forskning visar att doftämnen kan orsaka kontaktallergi, oavsett om ämnena är syntetiska eller naturliga (eteriska oljor).
-Bestämmelserna för användning av parfymer i produkterna har gradvis blivit strängare inom EU.
-De flesta doftämnena behöver inte redovisas med sina namn i innehållsdeklarationen, utan de kan samlas under den generella beteckningen ”parfum”.
-26 doftämnen är så pass allergiframkallande att de måste skrivas ut på flaskan:
-",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/,,
-Evernia Prunastri (Oak Moss Extract),,,"Många kosmetika och hygienprodukter innehåller doftämnen.
-Forskning visar att doftämnen kan orsaka kontaktallergi, oavsett om ämnena är syntetiska eller naturliga (eteriska oljor).
-Bestämmelserna för användning av parfymer i produkterna har gradvis blivit strängare inom EU.
-De flesta doftämnena behöver inte redovisas med sina namn i innehållsdeklarationen, utan de kan samlas under den generella beteckningen ”parfum”.
-26 doftämnen är så pass allergiframkallande att de måste skrivas ut på flaskan:
-",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/,,
-Farnesol,,,"Många kosmetika och hygienprodukter innehåller doftämnen.
-Forskning visar att doftämnen kan orsaka kontaktallergi, oavsett om ämnena är syntetiska eller naturliga (eteriska oljor).
-Bestämmelserna för användning av parfymer i produkterna har gradvis blivit strängare inom EU.
-De flesta doftämnena behöver inte redovisas med sina namn i innehållsdeklarationen, utan de kan samlas under den generella beteckningen ”parfum”.
-26 doftämnen är så pass allergiframkallande att de måste skrivas ut på flaskan:
-",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/,,
-Geraniol,,,"Många kosmetika och hygienprodukter innehåller doftämnen.
-Forskning visar att doftämnen kan orsaka kontaktallergi, oavsett om ämnena är syntetiska eller naturliga (eteriska oljor).
-Bestämmelserna för användning av parfymer i produkterna har gradvis blivit strängare inom EU.
-De flesta doftämnena behöver inte redovisas med sina namn i innehållsdeklarationen, utan de kan samlas under den generella beteckningen ”parfum”.
-26 doftämnen är så pass allergiframkallande att de måste skrivas ut på flaskan:
-",3,1,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/,,
-Hexyl Cinnamal,,,"Många kosmetika och hygienprodukter innehåller doftämnen.
-Forskning visar att doftämnen kan orsaka kontaktallergi, oavsett om ämnena är syntetiska eller naturliga (eteriska oljor).
-Bestämmelserna för användning av parfymer i produkterna har gradvis blivit strängare inom EU.
-De flesta doftämnena behöver inte redovisas med sina namn i innehållsdeklarationen, utan de kan samlas under den generella beteckningen ”parfum”.
-26 doftämnen är så pass allergiframkallande att de måste skrivas ut på flaskan:
-",3,5,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/,,
-Hydroxycitronellal,,,"Många kosmetika och hygienprodukter innehåller doftämnen.
-Forskning visar att doftämnen kan orsaka kontaktallergi, oavsett om ämnena är syntetiska eller naturliga (eteriska oljor).
-Bestämmelserna för användning av parfymer i produkterna har gradvis blivit strängare inom EU.
-De flesta doftämnena behöver inte redovisas med sina namn i innehållsdeklarationen, utan de kan samlas under den generella beteckningen ”parfum”.
-26 doftämnen är så pass allergiframkallande att de måste skrivas ut på flaskan:
-",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/,,
-Hydroxyisohexyl 3-cyclohexene,,,"Många kosmetika och hygienprodukter innehåller doftämnen.
-Forskning visar att doftämnen kan orsaka kontaktallergi, oavsett om ämnena är syntetiska eller naturliga (eteriska oljor).
-Bestämmelserna för användning av parfymer i produkterna har gradvis blivit strängare inom EU.
-De flesta doftämnena behöver inte redovisas med sina namn i innehållsdeklarationen, utan de kan samlas under den generella beteckningen ”parfum”.
-26 doftämnen är så pass allergiframkallande att de måste skrivas ut på flaskan:
-",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/,,
-Isoeugenol,,,"Många kosmetika och hygienprodukter innehåller doftämnen.
-Forskning visar att doftämnen kan orsaka kontaktallergi, oavsett om ämnena är syntetiska eller naturliga (eteriska oljor).
-Bestämmelserna för användning av parfymer i produkterna har gradvis blivit strängare inom EU.
-De flesta doftämnena behöver inte redovisas med sina namn i innehållsdeklarationen, utan de kan samlas under den generella beteckningen ”parfum”.
-26 doftämnen är så pass allergiframkallande att de måste skrivas ut på flaskan:
-",3,1,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/,,
-Limonene,,,"Många kosmetika och hygienprodukter innehåller doftämnen.
-Forskning visar att doftämnen kan orsaka kontaktallergi, oavsett om ämnena är syntetiska eller naturliga (eteriska oljor).
-Bestämmelserna för användning av parfymer i produkterna har gradvis blivit strängare inom EU.
-De flesta doftämnena behöver inte redovisas med sina namn i innehållsdeklarationen, utan de kan samlas under den generella beteckningen ”parfum”.
-26 doftämnen är så pass allergiframkallande att de måste skrivas ut på flaskan:
-",3,4,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/,,
-Linalool,,,"Många kosmetika och hygienprodukter innehåller doftämnen.
-Forskning visar att doftämnen kan orsaka kontaktallergi, oavsett om ämnena är syntetiska eller naturliga (eteriska oljor).
-Bestämmelserna för användning av parfymer i produkterna har gradvis blivit strängare inom EU.
-De flesta doftämnena behöver inte redovisas med sina namn i innehållsdeklarationen, utan de kan samlas under den generella beteckningen ”parfum”.
-26 doftämnen är så pass allergiframkallande att de måste skrivas ut på flaskan:
-",3,5,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/,,
-DEHP,,,"Ftalater är en grupp ämnen som används bland annat som mjukgörare i plast, men som kan även användas i nagellack, hårspray och parfymer.
-Alla ftalater är inte farliga, medan andra är hormonstörande eller misstänkt hormonstörande. Gemensamt för flera av dem är att de är hormonstörande med antiandrogen effekt, det vill säga att de motverkar effekterna av manliga könshormoner.
-De påverkar vårt organsystem negativt, vilket leder till bland annat försämrad sköldkörtelfunktion, reproduktionsstörningar och bröstcancer.
-De mest utsatta för ftalater är foster i livmodern, vars utveckling påverkas negativt.",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/,,
-dibutylftalat DBP,,,"Ftalater är en grupp ämnen som används bland annat som mjukgörare i plast, men som kan även användas i nagellack, hårspray och parfymer.
-Alla ftalater är inte farliga, medan andra är hormonstörande eller misstänkt hormonstörande. Gemensamt för flera av dem är att de är hormonstörande med antiandrogen effekt, det vill säga att de motverkar effekterna av manliga könshormoner.
-De påverkar vårt organsystem negativt, vilket leder till bland annat försämrad sköldkörtelfunktion, reproduktionsstörningar och bröstcancer.
-De mest utsatta för ftalater är foster i livmodern, vars utveckling påverkas negativt.",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/,,
-bensylbutylftalat BBP,,,"Ftalater är en grupp ämnen som används bland annat som mjukgörare i plast, men som kan även användas i nagellack, hårspray och parfymer.
-Alla ftalater är inte farliga, medan andra är hormonstörande eller misstänkt hormonstörande. Gemensamt för flera av dem är att de är hormonstörande med antiandrogen effekt, det vill säga att de motverkar effekterna av manliga könshormoner.
-De påverkar vårt organsystem negativt, vilket leder till bland annat försämrad sköldkörtelfunktion, reproduktionsstörningar och bröstcancer.
-De mest utsatta för ftalater är foster i livmodern, vars utveckling påverkas negativt.",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/,,
-DIPB,,,"Ftalater är en grupp ämnen som används bland annat som mjukgörare i plast, men som kan även användas i nagellack, hårspray och parfymer.
-Alla ftalater är inte farliga, medan andra är hormonstörande eller misstänkt hormonstörande. Gemensamt för flera av dem är att de är hormonstörande med antiandrogen effekt, det vill säga att de motverkar effekterna av manliga könshormoner.
-De påverkar vårt organsystem negativt, vilket leder till bland annat försämrad sköldkörtelfunktion, reproduktionsstörningar och bröstcancer.
-De mest utsatta för ftalater är foster i livmodern, vars utveckling påverkas negativt.",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/,,
-dicyklohexylftalat DPCHP,,,"Ftalater är en grupp ämnen som används bland annat som mjukgörare i plast, men som kan även användas i nagellack, hårspray och parfymer.
-Alla ftalater är inte farliga, medan andra är hormonstörande eller misstänkt hormonstörande. Gemensamt för flera av dem är att de är hormonstörande med antiandrogen effekt, det vill säga att de motverkar effekterna av manliga könshormoner.
-De påverkar vårt organsystem negativt, vilket leder till bland annat försämrad sköldkörtelfunktion, reproduktionsstörningar och bröstcancer.
-De mest utsatta för ftalater är foster i livmodern, vars utveckling påverkas negativt.",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/,,
-diisononylftalat DINP,,,"Ftalater är en grupp ämnen som används bland annat som mjukgörare i plast, men som kan även användas i nagellack, hårspray och parfymer.
-Alla ftalater är inte farliga, medan andra är hormonstörande eller misstänkt hormonstörande. Gemensamt för flera av dem är att de är hormonstörande med antiandrogen effekt, det vill säga att de motverkar effekterna av manliga könshormoner.
-De påverkar vårt organsystem negativt, vilket leder till bland annat försämrad sköldkörtelfunktion, reproduktionsstörningar och bröstcancer.
-De mest utsatta för ftalater är foster i livmodern, vars utveckling påverkas negativt.",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/,,
-diisodecylftalat DIDP,,,"Ftalater är en grupp ämnen som används bland annat som mjukgörare i plast, men som kan även användas i nagellack, hårspray och parfymer.
-Alla ftalater är inte farliga, medan andra är hormonstörande eller misstänkt hormonstörande. Gemensamt för flera av dem är att de är hormonstörande med antiandrogen effekt, det vill säga att de motverkar effekterna av manliga könshormoner.
-De påverkar vårt organsystem negativt, vilket leder till bland annat försämrad sköldkörtelfunktion, reproduktionsstörningar och bröstcancer.
-De mest utsatta för ftalater är foster i livmodern, vars utveckling påverkas negativt.",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/,,
-DCHP,,,"Ftalater är en grupp ämnen som används bland annat som mjukgörare i plast, men som kan även användas i nagellack, hårspray och parfymer.
-Alla ftalater är inte farliga, medan andra är hormonstörande eller misstänkt hormonstörande. Gemensamt för flera av dem är att de är hormonstörande med antiandrogen effekt, det vill säga att de motverkar effekterna av manliga könshormoner.
-De påverkar vårt organsystem negativt, vilket leder till bland annat försämrad sköldkörtelfunktion, reproduktionsstörningar och bröstcancer.
-De mest utsatta för ftalater är foster i livmodern, vars utveckling påverkas negativt.",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/,,
-PTFE,,,"Högfluorerade ämnen (PFAS) är en ämnesgrupp med förmåga att bilda släta, vatten-, fett- och smutsavvisande ytor. De används i en rad olika produkter såsom friluftslivs- och regnkläder, möbeltyger, skidvalla, brandskum och teflonstekpannor. De används även i kosmetiska produkter.
-Dessa ämnen är svårnedbrytbara, det vill säga att de inte bryts ner i naturen. I naturen når de vattenmiljöer där de kommer att förorena dricksvattnet och påverka djurlivet negativt. Djurförsök visar att de orsakar leverskador, påverkar negativt immunförsvaret och försämrar reproduktionsförmågan.
-Två av dessa ämnen – PFOS och PFOA – är misstänkt cancerframkallande och är nu förbjudna.
-Naturskyddsföreningen har hittat PFAS i en rad kosmetiska produkter, nämligen: ansiktsmasker, ansiktskräm, eyeliner, foundation, hårolja, highlighter, mascara, puder, primer, raklödder, ögonbrynsskugga, ögonskugga.
-Följande ämnen är PFAS och kan finnas i kosmetiska produkter:
-PTFE",3,0,,,
-Polytef,,,"Högfluorerade ämnen (PFAS) är en ämnesgrupp med förmåga att bilda släta, vatten-, fett- och smutsavvisande ytor. De används i en rad olika produkter såsom friluftslivs- och regnkläder, möbeltyger, skidvalla, brandskum och teflonstekpannor. De används även i kosmetiska produkter.
-Dessa ämnen är svårnedbrytbara, det vill säga att de inte bryts ner i naturen. I naturen når de vattenmiljöer där de kommer att förorena dricksvattnet och påverka djurlivet negativt. Djurförsök visar att de orsakar leverskador, påverkar negativt immunförsvaret och försämrar reproduktionsförmågan.
-Två av dessa ämnen – PFOS och PFOA – är misstänkt cancerframkallande och är nu förbjudna.
-Naturskyddsföreningen har hittat PFAS i en rad kosmetiska produkter, nämligen: ansiktsmasker, ansiktskräm, eyeliner, foundation, hårolja, highlighter, mascara, puder, primer, raklödder, ögonbrynsskugga, ögonskugga.
-Följande ämnen är PFAS och kan finnas i kosmetiska produkter:
-PTFE",3,0,,,
-Polytefum,,,"Högfluorerade ämnen (PFAS) är en ämnesgrupp med förmåga att bilda släta, vatten-, fett- och smutsavvisande ytor. De används i en rad olika produkter såsom friluftslivs- och regnkläder, möbeltyger, skidvalla, brandskum och teflonstekpannor. De används även i kosmetiska produkter.
-Dessa ämnen är svårnedbrytbara, det vill säga att de inte bryts ner i naturen. I naturen når de vattenmiljöer där de kommer att förorena dricksvattnet och påverka djurlivet negativt. Djurförsök visar att de orsakar leverskador, påverkar negativt immunförsvaret och försämrar reproduktionsförmågan.
-Två av dessa ämnen – PFOS och PFOA – är misstänkt cancerframkallande och är nu förbjudna.
-Naturskyddsföreningen har hittat PFAS i en rad kosmetiska produkter, nämligen: ansiktsmasker, ansiktskräm, eyeliner, foundation, hårolja, highlighter, mascara, puder, primer, raklödder, ögonbrynsskugga, ögonskugga.
-Följande ämnen är PFAS och kan finnas i kosmetiska produkter:
-PTFE",3,0,,,
-C9-15 Fluoroalcohol Phosphate,,,"Högfluorerade ämnen (PFAS) är en ämnesgrupp med förmåga att bilda släta, vatten-, fett- och smutsavvisande ytor. De används i en rad olika produkter såsom friluftslivs- och regnkläder, möbeltyger, skidvalla, brandskum och teflonstekpannor. De används även i kosmetiska produkter.
-Dessa ämnen är svårnedbrytbara, det vill säga att de inte bryts ner i naturen. I naturen når de vattenmiljöer där de kommer att förorena dricksvattnet och påverka djurlivet negativt. Djurförsök visar att de orsakar leverskador, påverkar negativt immunförsvaret och försämrar reproduktionsförmågan.
-Två av dessa ämnen – PFOS och PFOA – är misstänkt cancerframkallande och är nu förbjudna.
-Naturskyddsföreningen har hittat PFAS i en rad kosmetiska produkter, nämligen: ansiktsmasker, ansiktskräm, eyeliner, foundation, hårolja, highlighter, mascara, puder, primer, raklödder, ögonbrynsskugga, ögonskugga.
-Följande ämnen är PFAS och kan finnas i kosmetiska produkter:
-PTFE",3,0,,,
-Decafluoropentane,,,"Högfluorerade ämnen (PFAS) är en ämnesgrupp med förmåga att bilda släta, vatten-, fett- och smutsavvisande ytor. De används i en rad olika produkter såsom friluftslivs- och regnkläder, möbeltyger, skidvalla, brandskum och teflonstekpannor. De används även i kosmetiska produkter.
-Dessa ämnen är svårnedbrytbara, det vill säga att de inte bryts ner i naturen. I naturen når de vattenmiljöer där de kommer att förorena dricksvattnet och påverka djurlivet negativt. Djurförsök visar att de orsakar leverskador, påverkar negativt immunförsvaret och försämrar reproduktionsförmågan.
-Två av dessa ämnen – PFOS och PFOA – är misstänkt cancerframkallande och är nu förbjudna.
-Naturskyddsföreningen har hittat PFAS i en rad kosmetiska produkter, nämligen: ansiktsmasker, ansiktskräm, eyeliner, foundation, hårolja, highlighter, mascara, puder, primer, raklödder, ögonbrynsskugga, ögonskugga.
-Följande ämnen är PFAS och kan finnas i kosmetiska produkter:
-PTFE",3,0,,,
-Ammonium C6-16 Perfluoroalkylethyl Phosphate,,,"Högfluorerade ämnen (PFAS) är en ämnesgrupp med förmåga att bilda släta, vatten-, fett- och smutsavvisande ytor. De används i en rad olika produkter såsom friluftslivs- och regnkläder, möbeltyger, skidvalla, brandskum och teflonstekpannor. De används även i kosmetiska produkter.
-Dessa ämnen är svårnedbrytbara, det vill säga att de inte bryts ner i naturen. I naturen når de vattenmiljöer där de kommer att förorena dricksvattnet och påverka djurlivet negativt. Djurförsök visar att de orsakar leverskador, påverkar negativt immunförsvaret och försämrar reproduktionsförmågan.
-Två av dessa ämnen – PFOS och PFOA – är misstänkt cancerframkallande och är nu förbjudna.
-Naturskyddsföreningen har hittat PFAS i en rad kosmetiska produkter, nämligen: ansiktsmasker, ansiktskräm, eyeliner, foundation, hårolja, highlighter, mascara, puder, primer, raklödder, ögonbrynsskugga, ögonskugga.
-Följande ämnen är PFAS och kan finnas i kosmetiska produkter:
-PTFE",3,0,,,
-Polyperfluoroethoxymethoxy Difluoroethyl Peg Phosphate,,,"Högfluorerade ämnen (PFAS) är en ämnesgrupp med förmåga att bilda släta, vatten-, fett- och smutsavvisande ytor. De används i en rad olika produkter såsom friluftslivs- och regnkläder, möbeltyger, skidvalla, brandskum och teflonstekpannor. De används även i kosmetiska produkter.
-Dessa ämnen är svårnedbrytbara, det vill säga att de inte bryts ner i naturen. I naturen når de vattenmiljöer där de kommer att förorena dricksvattnet och påverka djurlivet negativt. Djurförsök visar att de orsakar leverskador, påverkar negativt immunförsvaret och försämrar reproduktionsförmågan.
-Två av dessa ämnen – PFOS och PFOA – är misstänkt cancerframkallande och är nu förbjudna.
-Naturskyddsföreningen har hittat PFAS i en rad kosmetiska produkter, nämligen: ansiktsmasker, ansiktskräm, eyeliner, foundation, hårolja, highlighter, mascara, puder, primer, raklödder, ögonbrynsskugga, ögonskugga.
-Följande ämnen är PFAS och kan finnas i kosmetiska produkter:
-PTFE",3,0,,,
-Polyperfluoromethylisopropyl Ether,,,"Högfluorerade ämnen (PFAS) är en ämnesgrupp med förmåga att bilda släta, vatten-, fett- och smutsavvisande ytor. De används i en rad olika produkter såsom friluftslivs- och regnkläder, möbeltyger, skidvalla, brandskum och teflonstekpannor. De används även i kosmetiska produkter.
-Dessa ämnen är svårnedbrytbara, det vill säga att de inte bryts ner i naturen. I naturen når de vattenmiljöer där de kommer att förorena dricksvattnet och påverka djurlivet negativt. Djurförsök visar att de orsakar leverskador, påverkar negativt immunförsvaret och försämrar reproduktionsförmågan.
-Två av dessa ämnen – PFOS och PFOA – är misstänkt cancerframkallande och är nu förbjudna.
-Naturskyddsföreningen har hittat PFAS i en rad kosmetiska produkter, nämligen: ansiktsmasker, ansiktskräm, eyeliner, foundation, hårolja, highlighter, mascara, puder, primer, raklödder, ögonbrynsskugga, ögonskugga.
-Följande ämnen är PFAS och kan finnas i kosmetiska produkter:
-PTFE",3,0,,,
-Perfluorooctyl Triethoxysilane,,,"Högfluorerade ämnen (PFAS) är en ämnesgrupp med förmåga att bilda släta, vatten-, fett- och smutsavvisande ytor. De används i en rad olika produkter såsom friluftslivs- och regnkläder, möbeltyger, skidvalla, brandskum och teflonstekpannor. De används även i kosmetiska produkter.
-Dessa ämnen är svårnedbrytbara, det vill säga att de inte bryts ner i naturen. I naturen når de vattenmiljöer där de kommer att förorena dricksvattnet och påverka djurlivet negativt. Djurförsök visar att de orsakar leverskador, påverkar negativt immunförsvaret och försämrar reproduktionsförmågan.
-Två av dessa ämnen – PFOS och PFOA – är misstänkt cancerframkallande och är nu förbjudna.
-Naturskyddsföreningen har hittat PFAS i en rad kosmetiska produkter, nämligen: ansiktsmasker, ansiktskräm, eyeliner, foundation, hårolja, highlighter, mascara, puder, primer, raklödder, ögonbrynsskugga, ögonskugga.
-Följande ämnen är PFAS och kan finnas i kosmetiska produkter:
-PTFE",3,0,,,
-Polyeten,PE,,"Mikroplaster är små plastpartiklar som är 5 mm i diameter eller mindre.
-De har använts i skrubbande produkter såsom i kroppsskrubb, peeling- och duschkräm.
-De har även använts i kosmetiska produkter för deras egenskaper som konsistensgivande, filmbildande, skyddande eller som utfyllnad. Till exempel i tandkräm, schampo, hudkrämer, ögonskugga, deodorant, hårspray, rouge, nagellack, mascara, rakkräm, babyprodukter, foundations, hand- och ansiktsrengöring, bubbelbad, hårfärgningsmedel och solskyddsmedel.
-Mikroplaster är så små att de inte fångas upp i reningsverk. De hamnar i vattendrag och sjöar och där tas de upp av vattenlevande djur. De är bioackumulerande och har en rad negativa effekter såsom minskat födointag, inflammationer, samt negativ påverkan på djurens energilagring, nervsystem och reproduktion.
-Det finns mikroplaster i vårt dricksvatten.
-Sedan 2018 är mikroplaster förbjudna i kosmetiska produkter som sköljs av, såsom tvål, tandkräm och duschkräm. Mikroplaster i icke-avsköljbara produkter är fortsatt tillåtna.",3,0,,,
-Polymetylmetakrylat,PMMA,,"Mikroplaster är små plastpartiklar som är 5 mm i diameter eller mindre.
-De har använts i skrubbande produkter såsom i kroppsskrubb, peeling- och duschkräm.
-De har även använts i kosmetiska produkter för deras egenskaper som konsistensgivande, filmbildande, skyddande eller som utfyllnad. Till exempel i tandkräm, schampo, hudkrämer, ögonskugga, deodorant, hårspray, rouge, nagellack, mascara, rakkräm, babyprodukter, foundations, hand- och ansiktsrengöring, bubbelbad, hårfärgningsmedel och solskyddsmedel.
-Mikroplaster är så små att de inte fångas upp i reningsverk. De hamnar i vattendrag och sjöar och där tas de upp av vattenlevande djur. De är bioackumulerande och har en rad negativa effekter såsom minskat födointag, inflammationer, samt negativ påverkan på djurens energilagring, nervsystem och reproduktion.
-Det finns mikroplaster i vårt dricksvatten.
-Sedan 2018 är mikroplaster förbjudna i kosmetiska produkter som sköljs av, såsom tvål, tandkräm och duschkräm. Mikroplaster i icke-avsköljbara produkter är fortsatt tillåtna.",3,0,,,
-Polytetrafluoreten,PTFE,,"Mikroplaster är små plastpartiklar som är 5 mm i diameter eller mindre.
-De har använts i skrubbande produkter såsom i kroppsskrubb, peeling- och duschkräm.
-De har även använts i kosmetiska produkter för deras egenskaper som konsistensgivande, filmbildande, skyddande eller som utfyllnad. Till exempel i tandkräm, schampo, hudkrämer, ögonskugga, deodorant, hårspray, rouge, nagellack, mascara, rakkräm, babyprodukter, foundations, hand- och ansiktsrengöring, bubbelbad, hårfärgningsmedel och solskyddsmedel.
-Mikroplaster är så små att de inte fångas upp i reningsverk. De hamnar i vattendrag och sjöar och där tas de upp av vattenlevande djur. De är bioackumulerande och har en rad negativa effekter såsom minskat födointag, inflammationer, samt negativ påverkan på djurens energilagring, nervsystem och reproduktion.
-Det finns mikroplaster i vårt dricksvatten.
-Sedan 2018 är mikroplaster förbjudna i kosmetiska produkter som sköljs av, såsom tvål, tandkräm och duschkräm. Mikroplaster i icke-avsköljbara produkter är fortsatt tillåtna.",3,0,,,
-Polypropen,PP,,"Mikroplaster är små plastpartiklar som är 5 mm i diameter eller mindre.
-De har använts i skrubbande produkter såsom i kroppsskrubb, peeling- och duschkräm.
-De har även använts i kosmetiska produkter för deras egenskaper som konsistensgivande, filmbildande, skyddande eller som utfyllnad. Till exempel i tandkräm, schampo, hudkrämer, ögonskugga, deodorant, hårspray, rouge, nagellack, mascara, rakkräm, babyprodukter, foundations, hand- och ansiktsrengöring, bubbelbad, hårfärgningsmedel och solskyddsmedel.
-Mikroplaster är så små att de inte fångas upp i reningsverk. De hamnar i vattendrag och sjöar och där tas de upp av vattenlevande djur. De är bioackumulerande och har en rad negativa effekter såsom minskat födointag, inflammationer, samt negativ påverkan på djurens energilagring, nervsystem och reproduktion.
-Det finns mikroplaster i vårt dricksvatten.
-Sedan 2018 är mikroplaster förbjudna i kosmetiska produkter som sköljs av, såsom tvål, tandkräm och duschkräm. Mikroplaster i icke-avsköljbara produkter är fortsatt tillåtna.",3,0,,,
-Polyamid ,PA,Nylon,"Mikroplaster är små plastpartiklar som är 5 mm i diameter eller mindre.
-De har använts i skrubbande produkter såsom i kroppsskrubb, peeling- och duschkräm.
-De har även använts i kosmetiska produkter för deras egenskaper som konsistensgivande, filmbildande, skyddande eller som utfyllnad. Till exempel i tandkräm, schampo, hudkrämer, ögonskugga, deodorant, hårspray, rouge, nagellack, mascara, rakkräm, babyprodukter, foundations, hand- och ansiktsrengöring, bubbelbad, hårfärgningsmedel och solskyddsmedel.
-Mikroplaster är så små att de inte fångas upp i reningsverk. De hamnar i vattendrag och sjöar och där tas de upp av vattenlevande djur. De är bioackumulerande och har en rad negativa effekter såsom minskat födointag, inflammationer, samt negativ påverkan på djurens energilagring, nervsystem och reproduktion.
-Det finns mikroplaster i vårt dricksvatten.
-Sedan 2018 är mikroplaster förbjudna i kosmetiska produkter som sköljs av, såsom tvål, tandkräm och duschkräm. Mikroplaster i icke-avsköljbara produkter är fortsatt tillåtna.",3,0,,,
-Akryklat,,,"Mikroplaster är små plastpartiklar som är 5 mm i diameter eller mindre.
-De har använts i skrubbande produkter såsom i kroppsskrubb, peeling- och duschkräm.
-De har även använts i kosmetiska produkter för deras egenskaper som konsistensgivande, filmbildande, skyddande eller som utfyllnad. Till exempel i tandkräm, schampo, hudkrämer, ögonskugga, deodorant, hårspray, rouge, nagellack, mascara, rakkräm, babyprodukter, foundations, hand- och ansiktsrengöring, bubbelbad, hårfärgningsmedel och solskyddsmedel.
-Mikroplaster är så små att de inte fångas upp i reningsverk. De hamnar i vattendrag och sjöar och där tas de upp av vattenlevande djur. De är bioackumulerande och har en rad negativa effekter såsom minskat födointag, inflammationer, samt negativ påverkan på djurens energilagring, nervsystem och reproduktion.
-Det finns mikroplaster i vårt dricksvatten.
-Sedan 2018 är mikroplaster förbjudna i kosmetiska produkter som sköljs av, såsom tvål, tandkräm och duschkräm. Mikroplaster i icke-avsköljbara produkter är fortsatt tillåtna.",3,0,,,
-Potassium Sorbate,,,Kan potentiellt vara irreterande för huden. Kaliumsorbat är ett konserveringsmedel med E-nummer E 202 som hindrar jäst- och mögeltillväxt. Kaliumsorbat är neutraliserad sorbinsyra som finns naturligt i många frukter och bär,2,3,,,
-,,,,,0,,,
-,,,,,0,,,
-,,,,,0,,,
-,,,,,0,,,
-,,,,,0,,,
-,,,,,0,,,
-,,,,,0,,,
-,,,,,0,,,
-,,,,,0,,,
-,,,,,0,,,
-,,,,,0,,,
-,,,,,0,,,
-,,,,,0,,,
-,,,,,0,,,
-,,,,,0,,,
-,,,,,0,,,
-,,,,,0,,,
-,,,,,0,,,
-,,,,,0,,,
-,,,,,0,,,
-,,,,,0,,,
-,,,,,0,,,
-,,,,,0,,,
-,,,,,0,,,
-,,,,,0,,,
-,,,,,0,,,
-,,,,,0,,,
-,,,,,0,,,
-,,,,,0,,,
-,,,,,0,,,
-,,,,,0,,,
-,,,,,0,,,
-,,,,,0,,,
-,,,,,0,,,
-,,,,,0,,,
-,,,,,0,,,
-,,,,,0,,,
-,,,,,0,,,
-,,,,,0,,,
-,,,,,0,,,
-,,,,,0,,,
-,,,,,0,,,
-,,,,,0,,,
-,,,,,0,,,
-,,,,,0,,,
-,,,,,0,,,
-,,,,,0,,,
-,,,,,0,,,
-,,,,,0,,,
-,,,,,0,,,
-,,,,,0,,,
-,,,,,0,,,
-,,,,,0,,,
-,,,,,0,,,
-,,,,,0,,,
-,,,,,0,,,
-,,,,,0,,,
-,,,,,0,,,
-,,,,,0,,,
-,,,,,0,,,
-,,,,,0,,,
-,,,,,0,,,
-,,,,,0,,,
+Name,Andra namn,Andra namn,Desc,Grading,Antal förekomster,Källa
+Vatten,,,Detta är vatten,1,1,
+Water,,,Detta är vatten,1,1,
+Aqua,,,Detta är vatten,1,7,
+Sodium Laureth Sulfate,,,"Det är möjligt att sodiumlaurylsulfat (SLS) kan vara skadligt för huden i vissa situationer. SLS är en vanligt förekommande tensid som används i många tvålar och rengöringsprodukter för att skapa skum och förbättra rengöringsförmågan. Det kan emellertid irritera huden och torka ut den, vilket kan leda till torrhet, klåda och rodnad. Om du upplever några av dessa symtom efter att ha använt en produkt som innehåller SLS, bör du prata med en hudläkare eller prova att använda en produkt som inte innehåller detta ämne.",3,6,
+SLS,,,"Det är möjligt att sodiumlaurylsulfat (SLS) kan vara skadligt för huden i vissa situationer. SLS är en vanligt förekommande tensid som används i många tvålar och rengöringsprodukter för att skapa skum och förbättra rengöringsförmågan. Det kan emellertid irritera huden och torka ut den, vilket kan leda till torrhet, klåda och rodnad. Om du upplever några av dessa symtom efter att ha använt en produkt som innehåller SLS, bör du prata med en hudläkare eller prova att använda en produkt som inte innehåller detta ämne.",3,0,
+Natriumlauretsulfat,,,"Det är möjligt att sodiumlaurylsulfat (SLS) kan vara skadligt för huden i vissa situationer. SLS är en vanligt förekommande tensid som används i många tvålar och rengöringsprodukter för att skapa skum och förbättra rengöringsförmågan. Det kan emellertid irritera huden och torka ut den, vilket kan leda till torrhet, klåda och rodnad. Om du upplever några av dessa symtom efter att ha använt en produkt som innehåller SLS, bör du prata med en hudläkare eller prova att använda en produkt som inte innehåller detta ämne.",3,0,
+Glycerin,,,"Används i det mesta, inte farligt",1,6,
+Cocamidopropyl Betaine,,,"Det är möjligt att Cocamidopropyl Betaine (CAPB) kan vara skadligt för huden i vissa situationer. CAPB är en tensid som används i många tvålar och rengöringsprodukter för att förbättra deras rengöringsförmåga. Det har dock rapporterats att det kan orsaka hudirritation och allergiska reaktioner hos vissa personer. Om du upplever några av dessa symtom efter att ha använt en produkt som innehåller CAPB, bör du prata med en hudläkare eller prova att använda en produkt som inte innehåller detta ämne.",3,6,
+CocamidopropylBetaine,,,"Det är möjligt att Cocamidopropyl Betaine (CAPB) kan vara skadligt för huden i vissa situationer. CAPB är en tensid som används i många tvålar och rengöringsprodukter för att förbättra deras rengöringsförmåga. Det har dock rapporterats att det kan orsaka hudirritation och allergiska reaktioner hos vissa personer. Om du upplever några av dessa symtom efter att ha använt en produkt som innehåller CAPB, bör du prata med en hudläkare eller prova att använda en produkt som inte innehåller detta ämne.",3,0,
+Glycol Distearate,,,"Glycol distearate är en kemikalie som används som emulgeringsmedel i många olika kosmetiska produkter, såsom lotioner, tvålar och schampo. Det hjälper till att hålla olika ingredienser i produkten blandade och ger en krämig konsistens. I små mängder är glycol distearate ofarligt för huden, men i större mängder kan det vara skadligt. Det kan orsaka irritation och klåda, och i vissa fall kan det även orsaka allergiska reaktioner. Det är därför viktigt att använda produkter som innehåller glycol distearate med försiktighet, och att undvika att använda produkter som innehåller för mycket av den kemikalien.",2,4,
+Citric Acid,,,"In personal care products, citric acid is used as a pH adjuster to help balance the pH of the product. It is also used as an exfoliant to help remove dead skin cells and improve the texture of the skin. Citric acid is generally considered safe for use in food and personal care products. However, it may cause skin irritation in some individuals. If you have sensitive skin or are concerned about the use of citric acid in a product, it is recommended that you patch test the product on a small area of your skin before using it more extensively.",3,8,
+Sodium Chloride,,,"Detta är vanligt koksalt, och inte farligt om det inte är stora mängder",1,5,
+Sodium Benzoate,,,"Sodium benzoate är en kemikalie som används som konserveringsmedel i många olika produkter, såsom mat, dryck, läkemedel och kosmetiska produkter. I små mängder är sodium benzoate ofarligt, men i större mängder kan det vara skadligt för huden. Det kan orsaka irritation och klåda, och i vissa fall kan det även orsaka allergiska reaktioner. Det är därför viktigt att använda produkter som innehåller sodium benzoate med försiktighet, och att undvika att använda produkter som innehåller för mycket av den kemikalien.",2,5,
+Parfum,,,"aldrig bra, men inte så farligt",2,8,
+Lactic Acid,,,,?,1,
+Laureth-4,,,,?,1,
+PPG-6,,,PPG och PEG är så kallade etoxilerade ingredienser som framställs i tunga kemiska processer som kräver mycket stränga säkerhetsåtgärder. PEG framställs syntetiskt av propangas.,3,1,
+Tetrasodium EDTA,,,,?,3,
+Hexyl Cinnamal,,,,?,5,
+PAPs,,,,3,0,
+PFCA,,,,3,0,
+diPAPs,,,,3,0,
+FTOH,,,,3,0,
+PTFE,,,,3,0,
+Teflon,,,,3,0,
+PFOA,,,,3,0,
+PFHxA,,,,3,0,
+PFAS,,,,3,0,
+Fluorerade polymerer,,,,3,0,
+6:2 fluortelomerer,,,,3,0,
+PFOA,,,,3,0,
+BHT,,,Hormonstörande,3,0,
+Ethylhexyl Methoxycinnamate,,,Hormonstörande,3,0,
+Ethylparaben,,,Hormonstörande,3,0,
+Methylparaben,,,Hormonstörande,3,0,
+Amylcinnamyl Alcohol,,,Allergiframkallande,3,0,
+Aplha-Isomethyl Ionone,,,Allergiframkallande,3,0,
+Benzyl Alcohol,,,Allergiframkallande,3,2,
+Benzyl Benzoate,,,Allergiframkallande,3,0,
+Benzyl Cinnamate,,,Allergiframkallande,3,0,
+Benzyl Salicylate,,,Allergiframkallande,3,3,
+Butylphenyl Methylpropional,,,Allergiframkallande,3,1,
+Citral,,,Allergiframkallande,3,1,
+Citronnellol,,,Allergiframkallande,3,0,
+Citrus Aurantium Dulcis Flower Extract,,,Allergiframkallande,3,0,
+Coumarin,,,Allergiframkallande,3,1,
+Geraniol,,,Allergiframkallande,3,1,
+Hexyl Cinnamal,,,Allergiframkallande,3,5,
+Methylchloroisothiazolinone,,,Allergiframkallande,3,0,
+Methylisothiazolinone,,,Allergiframkallande,4,0,
+MI,,,Allergiframkallande,4,0,
+Methylisothiazolinone (MI),,,Allergiframkallande,4,0,
+Methylisothiazolinone,,,Allergiframkallande,3,0,
+Propylparaben,,,Allergiframkallande,3,0,
+Benzophenone-4,,,Allergiframkallande,3,0,
+Propylparaben,,,Allergiframkallande,3,0,
+Parfym,,,Allergiframkallande,3,0,
+Phenoxyethanol,,,Allergiframkallande,3,2,
+Callendula officinalis flower extract,,,Hormonstörande,3,0,
+Benzyl salicylate,,,"Vissa parfymämnen kan vara irriterande för huden eller kan ge upphov till allergiska reaktioner hos vissa individer. Därför är det viktigt att välja parfymämnen som är säkra att använda i produkter som ska användas på kroppen, och att använda dessa ämnen i låga koncentrationer.",3,3,
+Citral,,,"Vissa parfymämnen kan vara irriterande för huden eller kan ge upphov till allergiska reaktioner hos vissa individer. Därför är det viktigt att välja parfymämnen som är säkra att använda i produkter som ska användas på kroppen, och att använda dessa ämnen i låga koncentrationer.",3,1,
+Coumarin,,,"Vissa parfymämnen kan vara irriterande för huden eller kan ge upphov till allergiska reaktioner hos vissa individer. Därför är det viktigt att välja parfymämnen som är säkra att använda i produkter som ska användas på kroppen, och att använda dessa ämnen i låga koncentrationer.",3,1,
+Hydroxyisohexyl 3-cyclohexene carboxaldehyde,,,"Vissa parfymämnen kan vara irriterande för huden eller kan ge upphov till allergiska reaktioner hos vissa individer. Därför är det viktigt att välja parfymämnen som är säkra att använda i produkter som ska användas på kroppen, och att använda dessa ämnen i låga koncentrationer.",3,0,
+Methylisothiazolinone,,,Konserveringsmedel och kan därför vara irreterande för huden och ge upphov till allergiska reaktioner hos vissa individer,3,0,
+Methylchloroisothiazolinone,,,Konserveringsmedel och kan därför vara irreterande för huden och ge upphov till allergiska reaktioner hos vissa individer,3,0,
+Formaldehyde,,,Konserveringsmedel och kan därför vara irreterande för huden och ge upphov till allergiska reaktioner hos vissa individer,3,0,
+Imidazolidinyl urea,,,Konserveringsmedel och kan därför vara irreterande för huden och ge upphov till allergiska reaktioner hos vissa individer,3,0,
+Diazolidinyl urea,,,Konserveringsmedel och kan därför vara irreterande för huden och ge upphov till allergiska reaktioner hos vissa individer,3,0,
+DMDM hydantoin,,,Konserveringsmedel och kan därför vara irreterande för huden och ge upphov till allergiska reaktioner hos vissa individer,3,0,
+Ammonium C6-16 Perfluoroalkylethyl Phosphate,,,,3,0,
+Polyperfluoroethoxymethoxy difluoroethyl PEG phosphate,,,,3,0,
+Polyperfluoromethylisopropyl ether,,,,3,0,
+Perfluorononyl dimethicone,,,,3,0,
+Polytef,,,,3,0,
+PEG,,,,3,0,
+PTFE,,,,3,0,
+polyethylene glucol),,,,3,0,
+methylParaben,,,,3,0,
+Paraben,,,,3,0,
+butylparaben,,,,3,0,
+ethylParaben,,,,3,0,
+propylParaben,,,,3,0,
+parrafin,,,,3,0,
+Lauramide DEA,,,,3,0,
+Cocamide DEA,,,,3,0,
+DEA,,,,3,0,
+MEA,,,,3,0,
+triethanolamine,,,,3,0,
+TEA,,,,3,0,
+Formaldehyd,,,,3,0,
+Glyoxal,,,,3,0,
+Glutaral,,,,3,0,
+Phenoxyglycerin,,,,3,0,
+Fhenoxyetanol,,,,3,0,
+BHT,,,,3,0,
+BHA,,,,3,0,
+Propylenglykol,,,,3,0,
+Tensid,,,,3,0,
+Sodium Lauryl Sulfate,,,"Depending on manufacturing processes, sodium laureth sulfate may be contaminated with measurable amounts of ethylene oxide and 1,4-dioxane. i The International Agency for Research on Cancer ethylene oxide as a known human carcinogen and 1,4-dioxane as a possible human carcinogen. Ethylene oxide can also harm the nervous system iiand the California Environmental Protection Agency has classified it as a possible developmental toxicant based on evidence that it may interfere with human development. iii 1,4-dioxane is also persistent. In other words, it doesn’t easily degrade and can remain in the environment long after it is rinsed down the shower drain. 1,4-dioxane can be removed from cosmetics during the manufacturing process by vacuum stripping, but there is no easy way for consumers to know whether products containing sodium laureth sulfate have undergone this process. The industry panel that reviews the safety of cosmetics ingredients notes that sodium laureth sulfate can irritate the skin and eyes.",3,2,
+SLES,,,"Depending on manufacturing processes, sodium laureth sulfate may be contaminated with measurable amounts of ethylene oxide and 1,4-dioxane. i The International Agency for Research on Cancer ethylene oxide as a known human carcinogen and 1,4-dioxane as a possible human carcinogen. Ethylene oxide can also harm the nervous system iiand the California Environmental Protection Agency has classified it as a possible developmental toxicant based on evidence that it may interfere with human development. iii 1,4-dioxane is also persistent. In other words, it doesn’t easily degrade and can remain in the environment long after it is rinsed down the shower drain. 1,4-dioxane can be removed from cosmetics during the manufacturing process by vacuum stripping, but there is no easy way for consumers to know whether products containing sodium laureth sulfate have undergone this process. The industry panel that reviews the safety of cosmetics ingredients notes that sodium laureth sulfate can irritate the skin and eyes.",3,0,
+Magnesium Laureth Sulfate,,,,3,0,
+C12-13 Alcohols,,,"C12-13 alcohols är en grupp alkoholer som används som emulgeringsmedel och vårdande ämne i många olika kosmetiska produkter, såsom lotioner, tvålar och hårvårdsprodukter. De hjälper till att hålla olika ingredienser i produkten blandade och ger en krämig konsistens, och de kan också hjälpa till att återfukta huden. I små mängder är C12-13 alcohols ofarliga för huden, men i större mängder kan de vara skadliga. De kan orsaka irritation och klåda, och i vissa fall kan de även orsaka allergiska reaktioner. Det är därför viktigt att använda produkter som innehåller C12-13 alcohols med försiktighet, och att undvika att använda produkter som innehåller för mycket av den kemikalien.",3,1,
+Methylchloroisothiazolinon,,,,3,0,
+Methylisothiazolinon,,,,3,0,
+2-bromo-2-nitropropan-1,,,,3,0,
+3-diol,,,,3,0,
+diazolidinyl urea,,,,3,0,
+DMDM hydantoin,,,,3,0,
+imidazolidinyl urea,,,,3,0,
+quaternium 15,,,,3,0,
+p-Phenylenediamine,,,(giftigt hårfärgande ämne),3,0,
+Xylene,,,(lösningsmedel i bla. nagellack),3,0,
+Methyldibromo Glutaronitrille,,,,3,0,
+Laurylpyridinium Chloride,,,,3,0,
+Dichlorobenzyl Alcohol,,,,3,0,
+Diazlidinyl Urea,,,,3,0,
+Bromochlorophene,,,,3,0,
+Chlorphenesin,,,,3,0,
+Chlorothymol,,,,3,0,
+Trideceth,,,,3,0,
+Steareth,,,,3,0,
+Laureth,,,,3,0,
+Ceteareth,,,,3,0,
+Glyceret,,,,3,0,
+Propylparaben,,,,3,0,
+Methylparaben,,,,3,0,
+Cetearyl alcohol,,,"Cetearyl alcohol är en kemikalie som används som emulgeringsmedel och vårdande ämne i många olika kosmetiska produkter, såsom lotioner, tvålar och hårvårdsprodukter. Det hjälper till att hålla olika ingredienser i produkten blandade och ger en krämig konsistens, och det kan också hjälpa till att återfukta huden. I små mängder är cetearyl alcohol ofarligt för huden, men i större mängder kan det vara skadligt. Det kan orsaka irritation och klåda, och i vissa fall kan det även orsaka allergiska reaktioner. Det är därför viktigt att använda produkter som innehåller cetearyl alcohol med försiktighet, och att undvika att använda produkter som innehåller för mycket av den kemikalien.",2,2,
+C12-13 Alkyl Lactate,,,"C12-13 alkyl lactate är en kemikalie som används som emulgeringsmedel och vårdande ämne i många olika kosmetiska produkter, såsom lotioner, tvålar och hårvårdsprodukter. Den hjälper till att hålla olika ingredienser i produkten blandade och ger en krämig konsistens, och den kan också hjälpa till att återfukta huden. I små mängder är C12-13 alkyl lactate ofarligt för huden, men i större mängder kan det vara skadligt. Det kan orsaka irritation och klåda, och i vissa fall kan det även orsaka allergiska reaktioner. Det är därför viktigt att använda produkter som innehåller C12-13 alkyl lactate med försiktighet, och att undvika att använda produkter som innehåller för mycket av den kemikalien.",3,1,
+PEG-6 Caprylic,,,,3,1,
+Fragrance,,,,2,2,
+PEG-4 Rapeseedamide,,,,3,2,
+Capric glycerides,,,"Capric glycerides är en kemikalie som används som emulgeringsmedel och vårdande ämne i många olika kosmetiska produkter, såsom lotioner, tvålar och hårvårdsprodukter. Den hjälper till att hålla olika ingredienser i produkten blandade och ger en krämig konsistens, och den kan också hjälpa till att återfukta huden. I små mängder är capric glycerides ofarliga för huden, men i större mängder kan de vara skadliga. De kan orsaka irritation och klåda, och i vissa fall kan de även orsaka allergiska reaktioner. Det är därför viktigt att använda produkter som innehåller capric glycerides med försiktighet, och att undvika att använda produkter som innehåller för mycket av den kemikalien.",2,1,
+dibutyl,,,Ftalater är mjukgörande kemikalier som används mycket i plast. Vet ni vad? Samma används även i bland annat smink och hårvård. Dessa är tyvärr svåra att spåra. Därav är det alltid bäst att köpa naturlig kroppsvård. Det kan skrivas ut som dibutyl och diethylhexyl.,3,0,
+diethylhexyl,,,Ftalater är mjukgörande kemikalier som används mycket i plast. Vet ni vad? Samma används även i bland annat smink och hårvård. Dessa är tyvärr svåra att spåra. Därav är det alltid bäst att köpa naturlig kroppsvård. Det kan skrivas ut som dibutyl och diethylhexyl.,3,0,
+PEG-4 Rai Lauryl Glucoside,,,"PEG-4 Rapeseedamide (also known as PEG-4 rapeseed oil amide or PEG-4 railyl glucoside) is a surfactant that is commonly used in personal care products such as shampoos, body washes, and facial cleansers. It is generally considered safe for use in personal care products, but some people may experience allergic reactions to it. Symptoms of an allergic reaction to PEG-4 Rapeseedamide may include redness, itching, and swelling of the skin, as well as difficulty breathing. If you experience any of these symptoms after using a product containing PEG-4 Rapeseedamide, you should stop using the product and consult a healthcare professional. It is also worth noting that PEG-4 Rapeseedamide is a synthetic compound and its long-term effects on human health are not well understood. Some studies have suggested that it may be a mild skin irritant, particularly at high concentrations. However, the concentrations of PEG-4 Rapeseedamide used in personal care products are typically low and are not expected to cause harm. As with any personal care product, it is always a good idea to use them in moderation and to follow the instructions for use.",3,1,
+PTFE,,,,4,0,
+polytef,,,,4,0,
+perfluoro,,,,4,0,
+polyfluoro,,,,4,0,
+Decafluoropentane,,,,4,0,
+C9-15,,,,4,0,
+C8-18,,,,4,0,
+fluoroalcohol,,,,4,0,
+benzoic acid,,,"Parabener är en grupp av kemiska ämnen som används som konserveringsmedel i kosmetiska produkter, men även i livsmedel och läkemedel. Det gemensamma för alla parabener är den kemiska grundstruktur bensoesyra. Bensoesyra är ett ämne som finns i växter och bär såsom lingon, hjortron och tranbär. Bensoesyra kan utlösa icke-allergisk överkänslighet. I början på 2000-talet publicerades alarmerande rapporter om parabener. Rapporterna påstod att parabener var allergiframkallande, hormonstörande och även cancerframkallande. Tillverkarna har då börjat leta efter ersättningar. 2014 bestämde EU att förbjuda vissa parabener, nämligen isopropylparaben, isobutylparaben, pentylparaben, phenylparaben och benzylpara ben. För andra parabener har EU har skärpt sina regler så att de maximalt tillåtna halterna sänks och att användningen i barnprodukter (0-3 år) begränsas. Följande parabener är hormonstörande och tillåts i kosmetiska produkter i låga halter: Propylparaben, Butylparaben.",3,1,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/
+benzene carboxylic acid,,,"Parabener är en grupp av kemiska ämnen som används som konserveringsmedel i kosmetiska produkter, men även i livsmedel och läkemedel. Det gemensamma för alla parabener är den kemiska grundstruktur bensoesyra. Bensoesyra är ett ämne som finns i växter och bär såsom lingon, hjortron och tranbär. Bensoesyra kan utlösa icke-allergisk överkänslighet. I början på 2000-talet publicerades alarmerande rapporter om parabener. Rapporterna påstod att parabener var allergiframkallande, hormonstörande och även cancerframkallande. Tillverkarna har då börjat leta efter ersättningar. 2014 bestämde EU att förbjuda vissa parabener, nämligen isopropylparaben, isobutylparaben, pentylparaben, phenylparaben och benzylpara ben. För andra parabener har EU har skärpt sina regler så att de maximalt tillåtna halterna sänks och att användningen i barnprodukter (0-3 år) begränsas. Följande parabener är hormonstörande och tillåts i kosmetiska produkter i låga halter: Propylparaben, Butylparaben.",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/
+henylformic acid,,,"Parabener är en grupp av kemiska ämnen som används som konserveringsmedel i kosmetiska produkter, men även i livsmedel och läkemedel. Det gemensamma för alla parabener är den kemiska grundstruktur bensoesyra. Bensoesyra är ett ämne som finns i växter och bär såsom lingon, hjortron och tranbär. Bensoesyra kan utlösa icke-allergisk överkänslighet. I början på 2000-talet publicerades alarmerande rapporter om parabener. Rapporterna påstod att parabener var allergiframkallande, hormonstörande och även cancerframkallande. Tillverkarna har då börjat leta efter ersättningar. 2014 bestämde EU att förbjuda vissa parabener, nämligen isopropylparaben, isobutylparaben, pentylparaben, phenylparaben och benzylpara ben. För andra parabener har EU har skärpt sina regler så att de maximalt tillåtna halterna sänks och att användningen i barnprodukter (0-3 år) begränsas. Följande parabener är hormonstörande och tillåts i kosmetiska produkter i låga halter: Propylparaben, Butylparaben.",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/
+Benzeneformic acid,,,"Parabener är en grupp av kemiska ämnen som används som konserveringsmedel i kosmetiska produkter, men även i livsmedel och läkemedel. Det gemensamma för alla parabener är den kemiska grundstruktur bensoesyra. Bensoesyra är ett ämne som finns i växter och bär såsom lingon, hjortron och tranbär. Bensoesyra kan utlösa icke-allergisk överkänslighet. I början på 2000-talet publicerades alarmerande rapporter om parabener. Rapporterna påstod att parabener var allergiframkallande, hormonstörande och även cancerframkallande. Tillverkarna har då börjat leta efter ersättningar. 2014 bestämde EU att förbjuda vissa parabener, nämligen isopropylparaben, isobutylparaben, pentylparaben, phenylparaben och benzylpara ben. För andra parabener har EU har skärpt sina regler så att de maximalt tillåtna halterna sänks och att användningen i barnprodukter (0-3 år) begränsas. Följande parabener är hormonstörande och tillåts i kosmetiska produkter i låga halter: Propylparaben, Butylparaben.",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/
+Phenylcarboxylic acid,,,"Parabener är en grupp av kemiska ämnen som används som konserveringsmedel i kosmetiska produkter, men även i livsmedel och läkemedel. Det gemensamma för alla parabener är den kemiska grundstruktur bensoesyra. Bensoesyra är ett ämne som finns i växter och bär såsom lingon, hjortron och tranbär. Bensoesyra kan utlösa icke-allergisk överkänslighet. I början på 2000-talet publicerades alarmerande rapporter om parabener. Rapporterna påstod att parabener var allergiframkallande, hormonstörande och även cancerframkallande. Tillverkarna har då börjat leta efter ersättningar. 2014 bestämde EU att förbjuda vissa parabener, nämligen isopropylparaben, isobutylparaben, pentylparaben, phenylparaben och benzylpara ben. För andra parabener har EU har skärpt sina regler så att de maximalt tillåtna halterna sänks och att användningen i barnprodukter (0-3 år) begränsas. Följande parabener är hormonstörande och tillåts i kosmetiska produkter i låga halter: Propylparaben, Butylparaben.",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/
+Benzene carboxylic acid,,,"Parabener är en grupp av kemiska ämnen som används som konserveringsmedel i kosmetiska produkter, men även i livsmedel och läkemedel. Det gemensamma för alla parabener är den kemiska grundstruktur bensoesyra. Bensoesyra är ett ämne som finns i växter och bär såsom lingon, hjortron och tranbär. Bensoesyra kan utlösa icke-allergisk överkänslighet. I början på 2000-talet publicerades alarmerande rapporter om parabener. Rapporterna påstod att parabener var allergiframkallande, hormonstörande och även cancerframkallande. Tillverkarna har då börjat leta efter ersättningar. 2014 bestämde EU att förbjuda vissa parabener, nämligen isopropylparaben, isobutylparaben, pentylparaben, phenylparaben och benzylpara ben. För andra parabener har EU har skärpt sina regler så att de maximalt tillåtna halterna sänks och att användningen i barnprodukter (0-3 år) begränsas. Följande parabener är hormonstörande och tillåts i kosmetiska produkter i låga halter: Propylparaben, Butylparaben.",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/
+Benzoyl acid,,,"Parabener är en grupp av kemiska ämnen som används som konserveringsmedel i kosmetiska produkter, men även i livsmedel och läkemedel. Det gemensamma för alla parabener är den kemiska grundstruktur bensoesyra. Bensoesyra är ett ämne som finns i växter och bär såsom lingon, hjortron och tranbär. Bensoesyra kan utlösa icke-allergisk överkänslighet. I början på 2000-talet publicerades alarmerande rapporter om parabener. Rapporterna påstod att parabener var allergiframkallande, hormonstörande och även cancerframkallande. Tillverkarna har då börjat leta efter ersättningar. 2014 bestämde EU att förbjuda vissa parabener, nämligen isopropylparaben, isobutylparaben, pentylparaben, phenylparaben och benzylpara ben. För andra parabener har EU har skärpt sina regler så att de maximalt tillåtna halterna sänks och att användningen i barnprodukter (0-3 år) begränsas. Följande parabener är hormonstörande och tillåts i kosmetiska produkter i låga halter: Propylparaben, Butylparaben.",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/
+"Carbonic acid, phenyl ester",,,"Parabener är en grupp av kemiska ämnen som används som konserveringsmedel i kosmetiska produkter, men även i livsmedel och läkemedel. Det gemensamma för alla parabener är den kemiska grundstruktur bensoesyra. Bensoesyra är ett ämne som finns i växter och bär såsom lingon, hjortron och tranbär. Bensoesyra kan utlösa icke-allergisk överkänslighet. I början på 2000-talet publicerades alarmerande rapporter om parabener. Rapporterna påstod att parabener var allergiframkallande, hormonstörande och även cancerframkallande. Tillverkarna har då börjat leta efter ersättningar. 2014 bestämde EU att förbjuda vissa parabener, nämligen isopropylparaben, isobutylparaben, pentylparaben, phenylparaben och benzylpara ben. För andra parabener har EU har skärpt sina regler så att de maximalt tillåtna halterna sänks och att användningen i barnprodukter (0-3 år) begränsas. Följande parabener är hormonstörande och tillåts i kosmetiska produkter i låga halter: Propylparaben, Butylparaben.",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/
+Carboxybenzene,,,"Parabener är en grupp av kemiska ämnen som används som konserveringsmedel i kosmetiska produkter, men även i livsmedel och läkemedel. Det gemensamma för alla parabener är den kemiska grundstruktur bensoesyra. Bensoesyra är ett ämne som finns i växter och bär såsom lingon, hjortron och tranbär. Bensoesyra kan utlösa icke-allergisk överkänslighet. I början på 2000-talet publicerades alarmerande rapporter om parabener. Rapporterna påstod att parabener var allergiframkallande, hormonstörande och även cancerframkallande. Tillverkarna har då börjat leta efter ersättningar. 2014 bestämde EU att förbjuda vissa parabener, nämligen isopropylparaben, isobutylparaben, pentylparaben, phenylparaben och benzylpara ben. För andra parabener har EU har skärpt sina regler så att de maximalt tillåtna halterna sänks och att användningen i barnprodukter (0-3 år) begränsas. Följande parabener är hormonstörande och tillåts i kosmetiska produkter i låga halter: Propylparaben, Butylparaben.",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/
+Benzolcarboxylic acid,,,"Parabener är en grupp av kemiska ämnen som används som konserveringsmedel i kosmetiska produkter, men även i livsmedel och läkemedel. Det gemensamma för alla parabener är den kemiska grundstruktur bensoesyra. Bensoesyra är ett ämne som finns i växter och bär såsom lingon, hjortron och tranbär. Bensoesyra kan utlösa icke-allergisk överkänslighet. I början på 2000-talet publicerades alarmerande rapporter om parabener. Rapporterna påstod att parabener var allergiframkallande, hormonstörande och även cancerframkallande. Tillverkarna har då börjat leta efter ersättningar. 2014 bestämde EU att förbjuda vissa parabener, nämligen isopropylparaben, isobutylparaben, pentylparaben, phenylparaben och benzylpara ben. För andra parabener har EU har skärpt sina regler så att de maximalt tillåtna halterna sänks och att användningen i barnprodukter (0-3 år) begränsas. Följande parabener är hormonstörande och tillåts i kosmetiska produkter i låga halter: Propylparaben, Butylparaben.",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/
+Benzyl carboxylate,,,"Parabener är en grupp av kemiska ämnen som används som konserveringsmedel i kosmetiska produkter, men även i livsmedel och läkemedel. Det gemensamma för alla parabener är den kemiska grundstruktur bensoesyra. Bensoesyra är ett ämne som finns i växter och bär såsom lingon, hjortron och tranbär. Bensoesyra kan utlösa icke-allergisk överkänslighet. I början på 2000-talet publicerades alarmerande rapporter om parabener. Rapporterna påstod att parabener var allergiframkallande, hormonstörande och även cancerframkallande. Tillverkarna har då börjat leta efter ersättningar. 2014 bestämde EU att förbjuda vissa parabener, nämligen isopropylparaben, isobutylparaben, pentylparaben, phenylparaben och benzylpara ben. För andra parabener har EU har skärpt sina regler så att de maximalt tillåtna halterna sänks och att användningen i barnprodukter (0-3 år) begränsas. Följande parabener är hormonstörande och tillåts i kosmetiska produkter i låga halter: Propylparaben, Butylparaben.",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/
+Bensoesyra,,,"Parabener är en grupp av kemiska ämnen som används som konserveringsmedel i kosmetiska produkter, men även i livsmedel och läkemedel. Det gemensamma för alla parabener är den kemiska grundstruktur bensoesyra. Bensoesyra är ett ämne som finns i växter och bär såsom lingon, hjortron och tranbär. Bensoesyra kan utlösa icke-allergisk överkänslighet. I början på 2000-talet publicerades alarmerande rapporter om parabener. Rapporterna påstod att parabener var allergiframkallande, hormonstörande och även cancerframkallande. Tillverkarna har då börjat leta efter ersättningar. 2014 bestämde EU att förbjuda vissa parabener, nämligen isopropylparaben, isobutylparaben, pentylparaben, phenylparaben och benzylpara ben. För andra parabener har EU har skärpt sina regler så att de maximalt tillåtna halterna sänks och att användningen i barnprodukter (0-3 år) begränsas. Följande parabener är hormonstörande och tillåts i kosmetiska produkter i låga halter: Propylparaben, Butylparaben.",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/
+Alpha-Isomethyl Ionone,,,"Många kosmetika och hygienprodukter innehåller doftämnen. Forskning visar att doftämnen kan orsaka kontaktallergi, oavsett om ämnena är syntetiska eller naturliga (eteriska oljor). Bestämmelserna för användning av parfymer i produkterna har gradvis blivit strängare inom EU. De flesta doftämnena behöver inte redovisas med sina namn i innehållsdeklarationen, utan de kan samlas under den generella beteckningen ”parfum”. 26 doftämnen är så pass allergiframkallande att de måste skrivas ut på flaskan. Detta är ett.",3,1,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/
+Amyl Cinnamal,,,"Många kosmetika och hygienprodukter innehåller doftämnen. Forskning visar att doftämnen kan orsaka kontaktallergi, oavsett om ämnena är syntetiska eller naturliga (eteriska oljor). Bestämmelserna för användning av parfymer i produkterna har gradvis blivit strängare inom EU. De flesta doftämnena behöver inte redovisas med sina namn i innehållsdeklarationen, utan de kan samlas under den generella beteckningen ”parfum”. 26 doftämnen är så pass allergiframkallande att de måste skrivas ut på flaskan. Detta är ett.",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/
+Amylcinnamyl Alcohol,,,"Många kosmetika och hygienprodukter innehåller doftämnen. Forskning visar att doftämnen kan orsaka kontaktallergi, oavsett om ämnena är syntetiska eller naturliga (eteriska oljor). Bestämmelserna för användning av parfymer i produkterna har gradvis blivit strängare inom EU. De flesta doftämnena behöver inte redovisas med sina namn i innehållsdeklarationen, utan de kan samlas under den generella beteckningen ”parfum”. 26 doftämnen är så pass allergiframkallande att de måste skrivas ut på flaskan. Detta är ett.",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/
+Anise Alcohol,,,"Många kosmetika och hygienprodukter innehåller doftämnen. Forskning visar att doftämnen kan orsaka kontaktallergi, oavsett om ämnena är syntetiska eller naturliga (eteriska oljor). Bestämmelserna för användning av parfymer i produkterna har gradvis blivit strängare inom EU. De flesta doftämnena behöver inte redovisas med sina namn i innehållsdeklarationen, utan de kan samlas under den generella beteckningen ”parfum”. 26 doftämnen är så pass allergiframkallande att de måste skrivas ut på flaskan. Detta är ett.",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/
+Avernia Furfuracea (Treemoss Exctract),,,"Många kosmetika och hygienprodukter innehåller doftämnen. Forskning visar att doftämnen kan orsaka kontaktallergi, oavsett om ämnena är syntetiska eller naturliga (eteriska oljor). Bestämmelserna för användning av parfymer i produkterna har gradvis blivit strängare inom EU. De flesta doftämnena behöver inte redovisas med sina namn i innehållsdeklarationen, utan de kan samlas under den generella beteckningen ”parfum”. 26 doftämnen är så pass allergiframkallande att de måste skrivas ut på flaskan. Detta är ett.",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/
+Benzyl Alcohol,,,"Många kosmetika och hygienprodukter innehåller doftämnen. Forskning visar att doftämnen kan orsaka kontaktallergi, oavsett om ämnena är syntetiska eller naturliga (eteriska oljor). Bestämmelserna för användning av parfymer i produkterna har gradvis blivit strängare inom EU. De flesta doftämnena behöver inte redovisas med sina namn i innehållsdeklarationen, utan de kan samlas under den generella beteckningen ”parfum”. 26 doftämnen är så pass allergiframkallande att de måste skrivas ut på flaskan. Detta är ett.",3,2,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/
+Benzyl Benzoate,,,"Många kosmetika och hygienprodukter innehåller doftämnen. Forskning visar att doftämnen kan orsaka kontaktallergi, oavsett om ämnena är syntetiska eller naturliga (eteriska oljor). Bestämmelserna för användning av parfymer i produkterna har gradvis blivit strängare inom EU. De flesta doftämnena behöver inte redovisas med sina namn i innehållsdeklarationen, utan de kan samlas under den generella beteckningen ”parfum”. 26 doftämnen är så pass allergiframkallande att de måste skrivas ut på flaskan. Detta är ett.",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/
+Benzyl Cinnamate,,,"Många kosmetika och hygienprodukter innehåller doftämnen. Forskning visar att doftämnen kan orsaka kontaktallergi, oavsett om ämnena är syntetiska eller naturliga (eteriska oljor). Bestämmelserna för användning av parfymer i produkterna har gradvis blivit strängare inom EU. De flesta doftämnena behöver inte redovisas med sina namn i innehållsdeklarationen, utan de kan samlas under den generella beteckningen ”parfum”. 26 doftämnen är så pass allergiframkallande att de måste skrivas ut på flaskan. Detta är ett.",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/
+Benzyl Salicylate,,,"Många kosmetika och hygienprodukter innehåller doftämnen. Forskning visar att doftämnen kan orsaka kontaktallergi, oavsett om ämnena är syntetiska eller naturliga (eteriska oljor). Bestämmelserna för användning av parfymer i produkterna har gradvis blivit strängare inom EU. De flesta doftämnena behöver inte redovisas med sina namn i innehållsdeklarationen, utan de kan samlas under den generella beteckningen ”parfum”. 26 doftämnen är så pass allergiframkallande att de måste skrivas ut på flaskan. Detta är ett.",3,3,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/
+Butyphenyl Methylpropional (Lilial),,,"Många kosmetika och hygienprodukter innehåller doftämnen. Forskning visar att doftämnen kan orsaka kontaktallergi, oavsett om ämnena är syntetiska eller naturliga (eteriska oljor). Bestämmelserna för användning av parfymer i produkterna har gradvis blivit strängare inom EU. De flesta doftämnena behöver inte redovisas med sina namn i innehållsdeklarationen, utan de kan samlas under den generella beteckningen ”parfum”. 26 doftämnen är så pass allergiframkallande att de måste skrivas ut på flaskan. Detta är ett.",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/
+Carboxaldehyde,,,"Många kosmetika och hygienprodukter innehåller doftämnen. Forskning visar att doftämnen kan orsaka kontaktallergi, oavsett om ämnena är syntetiska eller naturliga (eteriska oljor). Bestämmelserna för användning av parfymer i produkterna har gradvis blivit strängare inom EU. De flesta doftämnena behöver inte redovisas med sina namn i innehållsdeklarationen, utan de kan samlas under den generella beteckningen ”parfum”. 26 doftämnen är så pass allergiframkallande att de måste skrivas ut på flaskan. Detta är ett.",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/
+Cinnamal,,,"Många kosmetika och hygienprodukter innehåller doftämnen. Forskning visar att doftämnen kan orsaka kontaktallergi, oavsett om ämnena är syntetiska eller naturliga (eteriska oljor). Bestämmelserna för användning av parfymer i produkterna har gradvis blivit strängare inom EU. De flesta doftämnena behöver inte redovisas med sina namn i innehållsdeklarationen, utan de kan samlas under den generella beteckningen ”parfum”. 26 doftämnen är så pass allergiframkallande att de måste skrivas ut på flaskan. Detta är ett.",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/
+Cinnamal Alcohol,,,"Många kosmetika och hygienprodukter innehåller doftämnen. Forskning visar att doftämnen kan orsaka kontaktallergi, oavsett om ämnena är syntetiska eller naturliga (eteriska oljor). Bestämmelserna för användning av parfymer i produkterna har gradvis blivit strängare inom EU. De flesta doftämnena behöver inte redovisas med sina namn i innehållsdeklarationen, utan de kan samlas under den generella beteckningen ”parfum”. 26 doftämnen är så pass allergiframkallande att de måste skrivas ut på flaskan. Detta är ett.",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/
+Citral,,,"Många kosmetika och hygienprodukter innehåller doftämnen. Forskning visar att doftämnen kan orsaka kontaktallergi, oavsett om ämnena är syntetiska eller naturliga (eteriska oljor). Bestämmelserna för användning av parfymer i produkterna har gradvis blivit strängare inom EU. De flesta doftämnena behöver inte redovisas med sina namn i innehållsdeklarationen, utan de kan samlas under den generella beteckningen ”parfum”. 26 doftämnen är så pass allergiframkallande att de måste skrivas ut på flaskan. Detta är ett.",3,1,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/
+Citronellol,,,"Många kosmetika och hygienprodukter innehåller doftämnen. Forskning visar att doftämnen kan orsaka kontaktallergi, oavsett om ämnena är syntetiska eller naturliga (eteriska oljor). Bestämmelserna för användning av parfymer i produkterna har gradvis blivit strängare inom EU. De flesta doftämnena behöver inte redovisas med sina namn i innehållsdeklarationen, utan de kan samlas under den generella beteckningen ”parfum”. 26 doftämnen är så pass allergiframkallande att de måste skrivas ut på flaskan. Detta är ett.",3,2,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/
+Coumarin,,,"Många kosmetika och hygienprodukter innehåller doftämnen. Forskning visar att doftämnen kan orsaka kontaktallergi, oavsett om ämnena är syntetiska eller naturliga (eteriska oljor). Bestämmelserna för användning av parfymer i produkterna har gradvis blivit strängare inom EU. De flesta doftämnena behöver inte redovisas med sina namn i innehållsdeklarationen, utan de kan samlas under den generella beteckningen ”parfum”. 26 doftämnen är så pass allergiframkallande att de måste skrivas ut på flaskan. Detta är ett.",3,1,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/
+Eugenol,,,"Många kosmetika och hygienprodukter innehåller doftämnen. Forskning visar att doftämnen kan orsaka kontaktallergi, oavsett om ämnena är syntetiska eller naturliga (eteriska oljor). Bestämmelserna för användning av parfymer i produkterna har gradvis blivit strängare inom EU. De flesta doftämnena behöver inte redovisas med sina namn i innehållsdeklarationen, utan de kan samlas under den generella beteckningen ”parfum”. 26 doftämnen är så pass allergiframkallande att de måste skrivas ut på flaskan. Detta är ett.",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/
+Evernia Prunastri (Oak Moss Extract),,,"Många kosmetika och hygienprodukter innehåller doftämnen. Forskning visar att doftämnen kan orsaka kontaktallergi, oavsett om ämnena är syntetiska eller naturliga (eteriska oljor). Bestämmelserna för användning av parfymer i produkterna har gradvis blivit strängare inom EU. De flesta doftämnena behöver inte redovisas med sina namn i innehållsdeklarationen, utan de kan samlas under den generella beteckningen ”parfum”. 26 doftämnen är så pass allergiframkallande att de måste skrivas ut på flaskan. Detta är ett.",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/
+Farnesol,,,"Många kosmetika och hygienprodukter innehåller doftämnen. Forskning visar att doftämnen kan orsaka kontaktallergi, oavsett om ämnena är syntetiska eller naturliga (eteriska oljor). Bestämmelserna för användning av parfymer i produkterna har gradvis blivit strängare inom EU. De flesta doftämnena behöver inte redovisas med sina namn i innehållsdeklarationen, utan de kan samlas under den generella beteckningen ”parfum”. 26 doftämnen är så pass allergiframkallande att de måste skrivas ut på flaskan. Detta är ett.",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/
+Geraniol,,,"Många kosmetika och hygienprodukter innehåller doftämnen. Forskning visar att doftämnen kan orsaka kontaktallergi, oavsett om ämnena är syntetiska eller naturliga (eteriska oljor). Bestämmelserna för användning av parfymer i produkterna har gradvis blivit strängare inom EU. De flesta doftämnena behöver inte redovisas med sina namn i innehållsdeklarationen, utan de kan samlas under den generella beteckningen ”parfum”. 26 doftämnen är så pass allergiframkallande att de måste skrivas ut på flaskan. Detta är ett.",3,1,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/
+Hexyl Cinnamal,,,"Många kosmetika och hygienprodukter innehåller doftämnen. Forskning visar att doftämnen kan orsaka kontaktallergi, oavsett om ämnena är syntetiska eller naturliga (eteriska oljor). Bestämmelserna för användning av parfymer i produkterna har gradvis blivit strängare inom EU. De flesta doftämnena behöver inte redovisas med sina namn i innehållsdeklarationen, utan de kan samlas under den generella beteckningen ”parfum”. 26 doftämnen är så pass allergiframkallande att de måste skrivas ut på flaskan. Detta är ett.",3,5,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/
+Hydroxycitronellal,,,"Många kosmetika och hygienprodukter innehåller doftämnen. Forskning visar att doftämnen kan orsaka kontaktallergi, oavsett om ämnena är syntetiska eller naturliga (eteriska oljor). Bestämmelserna för användning av parfymer i produkterna har gradvis blivit strängare inom EU. De flesta doftämnena behöver inte redovisas med sina namn i innehållsdeklarationen, utan de kan samlas under den generella beteckningen ”parfum”. 26 doftämnen är så pass allergiframkallande att de måste skrivas ut på flaskan. Detta är ett.",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/
+Hydroxyisohexyl 3-cyclohexene,,,"Många kosmetika och hygienprodukter innehåller doftämnen. Forskning visar att doftämnen kan orsaka kontaktallergi, oavsett om ämnena är syntetiska eller naturliga (eteriska oljor). Bestämmelserna för användning av parfymer i produkterna har gradvis blivit strängare inom EU. De flesta doftämnena behöver inte redovisas med sina namn i innehållsdeklarationen, utan de kan samlas under den generella beteckningen ”parfum”. 26 doftämnen är så pass allergiframkallande att de måste skrivas ut på flaskan. Detta är ett.",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/
+Isoeugenol,,,"Många kosmetika och hygienprodukter innehåller doftämnen. Forskning visar att doftämnen kan orsaka kontaktallergi, oavsett om ämnena är syntetiska eller naturliga (eteriska oljor). Bestämmelserna för användning av parfymer i produkterna har gradvis blivit strängare inom EU. De flesta doftämnena behöver inte redovisas med sina namn i innehållsdeklarationen, utan de kan samlas under den generella beteckningen ”parfum”. 26 doftämnen är så pass allergiframkallande att de måste skrivas ut på flaskan. Detta är ett.",3,1,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/
+Limonene,,,"Många kosmetika och hygienprodukter innehåller doftämnen. Forskning visar att doftämnen kan orsaka kontaktallergi, oavsett om ämnena är syntetiska eller naturliga (eteriska oljor). Bestämmelserna för användning av parfymer i produkterna har gradvis blivit strängare inom EU. De flesta doftämnena behöver inte redovisas med sina namn i innehållsdeklarationen, utan de kan samlas under den generella beteckningen ”parfum”. 26 doftämnen är så pass allergiframkallande att de måste skrivas ut på flaskan. Detta är ett.",3,5,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/
+Linalool,,,"Många kosmetika och hygienprodukter innehåller doftämnen. Forskning visar att doftämnen kan orsaka kontaktallergi, oavsett om ämnena är syntetiska eller naturliga (eteriska oljor). Bestämmelserna för användning av parfymer i produkterna har gradvis blivit strängare inom EU. De flesta doftämnena behöver inte redovisas med sina namn i innehållsdeklarationen, utan de kan samlas under den generella beteckningen ”parfum”. 26 doftämnen är så pass allergiframkallande att de måste skrivas ut på flaskan. Detta är ett.",3,6,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/
+Dehp,,,"Ftalater är en grupp ämnen som används bland annat som mjukgörare i plast, men som kan även användas i nagellack, hårspray och parfymer. Alla ftalater är inte farliga, medan andra är hormonstörande eller misstänkt hormonstörande. Gemensamt för flera av dem är att de är hormonstörande med antiandrogen effekt, det vill säga att de motverkar effekterna av manliga könshormoner. De påverkar vårt organsystem negativt, vilket leder till bland annat försämrad sköldkörtelfunktion, reproduktionsstörningar och bröstcancer. De mest utsatta för ftalater är foster i livmodern, vars utveckling påverkas negativt.",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/
+dibutylftalat DBP,,,"Ftalater är en grupp ämnen som används bland annat som mjukgörare i plast, men som kan även användas i nagellack, hårspray och parfymer. Alla ftalater är inte farliga, medan andra är hormonstörande eller misstänkt hormonstörande. Gemensamt för flera av dem är att de är hormonstörande med antiandrogen effekt, det vill säga att de motverkar effekterna av manliga könshormoner. De påverkar vårt organsystem negativt, vilket leder till bland annat försämrad sköldkörtelfunktion, reproduktionsstörningar och bröstcancer. De mest utsatta för ftalater är foster i livmodern, vars utveckling påverkas negativt.",3,0,
+bensylbutylftalat BBP,,,"Ftalater är en grupp ämnen som används bland annat som mjukgörare i plast, men som kan även användas i nagellack, hårspray och parfymer. Alla ftalater är inte farliga, medan andra är hormonstörande eller misstänkt hormonstörande. Gemensamt för flera av dem är att de är hormonstörande med antiandrogen effekt, det vill säga att de motverkar effekterna av manliga könshormoner. De påverkar vårt organsystem negativt, vilket leder till bland annat försämrad sköldkörtelfunktion, reproduktionsstörningar och bröstcancer. De mest utsatta för ftalater är foster i livmodern, vars utveckling påverkas negativt.",3,0,
+Dipb,,,"Ftalater är en grupp ämnen som används bland annat som mjukgörare i plast, men som kan även användas i nagellack, hårspray och parfymer. Alla ftalater är inte farliga, medan andra är hormonstörande eller misstänkt hormonstörande. Gemensamt för flera av dem är att de är hormonstörande med antiandrogen effekt, det vill säga att de motverkar effekterna av manliga könshormoner. De påverkar vårt organsystem negativt, vilket leder till bland annat försämrad sköldkörtelfunktion, reproduktionsstörningar och bröstcancer. De mest utsatta för ftalater är foster i livmodern, vars utveckling påverkas negativt.",3,0,
+dicyklohexylftalat DPCHP,,,"Ftalater är en grupp ämnen som används bland annat som mjukgörare i plast, men som kan även användas i nagellack, hårspray och parfymer. Alla ftalater är inte farliga, medan andra är hormonstörande eller misstänkt hormonstörande. Gemensamt för flera av dem är att de är hormonstörande med antiandrogen effekt, det vill säga att de motverkar effekterna av manliga könshormoner. De påverkar vårt organsystem negativt, vilket leder till bland annat försämrad sköldkörtelfunktion, reproduktionsstörningar och bröstcancer. De mest utsatta för ftalater är foster i livmodern, vars utveckling påverkas negativt.",3,0,
+diisononylftalat DINP,,,"Ftalater är en grupp ämnen som används bland annat som mjukgörare i plast, men som kan även användas i nagellack, hårspray och parfymer. Alla ftalater är inte farliga, medan andra är hormonstörande eller misstänkt hormonstörande. Gemensamt för flera av dem är att de är hormonstörande med antiandrogen effekt, det vill säga att de motverkar effekterna av manliga könshormoner. De påverkar vårt organsystem negativt, vilket leder till bland annat försämrad sköldkörtelfunktion, reproduktionsstörningar och bröstcancer. De mest utsatta för ftalater är foster i livmodern, vars utveckling påverkas negativt.",3,0,
+diisodecylftalat DIDP,,,"Ftalater är en grupp ämnen som används bland annat som mjukgörare i plast, men som kan även användas i nagellack, hårspray och parfymer. Alla ftalater är inte farliga, medan andra är hormonstörande eller misstänkt hormonstörande. Gemensamt för flera av dem är att de är hormonstörande med antiandrogen effekt, det vill säga att de motverkar effekterna av manliga könshormoner. De påverkar vårt organsystem negativt, vilket leder till bland annat försämrad sköldkörtelfunktion, reproduktionsstörningar och bröstcancer. De mest utsatta för ftalater är foster i livmodern, vars utveckling påverkas negativt.",3,0,
+Dchp,,,"Ftalater är en grupp ämnen som används bland annat som mjukgörare i plast, men som kan även användas i nagellack, hårspray och parfymer. Alla ftalater är inte farliga, medan andra är hormonstörande eller misstänkt hormonstörande. Gemensamt för flera av dem är att de är hormonstörande med antiandrogen effekt, det vill säga att de motverkar effekterna av manliga könshormoner. De påverkar vårt organsystem negativt, vilket leder till bland annat försämrad sköldkörtelfunktion, reproduktionsstörningar och bröstcancer. De mest utsatta för ftalater är foster i livmodern, vars utveckling påverkas negativt.",3,0,https://www.medvetenkonsumtion.se/rad-fakta/halsofarliga-amnen/
+PTFE,,,"Högfluorerade ämnen (PFAS) är en ämnesgrupp med förmåga att bilda släta, vatten-, fett- och smutsavvisande ytor. De används i en rad olika produkter såsom friluftslivs- och regnkläder, möbeltyger, skidvalla, brandskum och teflonstekpannor. De används även i kosmetiska produkter. Dessa ämnen är svårnedbrytbara, det vill säga att de inte bryts ner i naturen. I naturen når de vattenmiljöer där de kommer att förorena dricksvattnet och påverka djurlivet negativt. Djurförsök visar att de orsakar leverskador, påverkar negativt immunförsvaret och försämrar reproduktionsförmågan. Två av dessa ämnen – PFOS och PFOA – är misstänkt cancerframkallande och är nu förbjudna. Naturskyddsföreningen har hittat PFAS i en rad kosmetiska produkter, nämligen: ansiktsmasker, ansiktskräm, eyeliner, foundation, hårolja, highlighter, mascara, puder, primer, raklödder, ögonbrynsskugga, ögonskugga. Följande ämnen är PFAS och kan finnas i kosmetiska produkter: PTFE",3,0,
+Polytef,,,"Högfluorerade ämnen (PFAS) är en ämnesgrupp med förmåga att bilda släta, vatten-, fett- och smutsavvisande ytor. De används i en rad olika produkter såsom friluftslivs- och regnkläder, möbeltyger, skidvalla, brandskum och teflonstekpannor. De används även i kosmetiska produkter. Dessa ämnen är svårnedbrytbara, det vill säga att de inte bryts ner i naturen. I naturen når de vattenmiljöer där de kommer att förorena dricksvattnet och påverka djurlivet negativt. Djurförsök visar att de orsakar leverskador, påverkar negativt immunförsvaret och försämrar reproduktionsförmågan. Två av dessa ämnen – PFOS och PFOA – är misstänkt cancerframkallande och är nu förbjudna. Naturskyddsföreningen har hittat PFAS i en rad kosmetiska produkter, nämligen: ansiktsmasker, ansiktskräm, eyeliner, foundation, hårolja, highlighter, mascara, puder, primer, raklödder, ögonbrynsskugga, ögonskugga. Följande ämnen är PFAS och kan finnas i kosmetiska produkter: PTFE",3,0,
+Polytefum,,,"Högfluorerade ämnen (PFAS) är en ämnesgrupp med förmåga att bilda släta, vatten-, fett- och smutsavvisande ytor. De används i en rad olika produkter såsom friluftslivs- och regnkläder, möbeltyger, skidvalla, brandskum och teflonstekpannor. De används även i kosmetiska produkter. Dessa ämnen är svårnedbrytbara, det vill säga att de inte bryts ner i naturen. I naturen når de vattenmiljöer där de kommer att förorena dricksvattnet och påverka djurlivet negativt. Djurförsök visar att de orsakar leverskador, påverkar negativt immunförsvaret och försämrar reproduktionsförmågan. Två av dessa ämnen – PFOS och PFOA – är misstänkt cancerframkallande och är nu förbjudna. Naturskyddsföreningen har hittat PFAS i en rad kosmetiska produkter, nämligen: ansiktsmasker, ansiktskräm, eyeliner, foundation, hårolja, highlighter, mascara, puder, primer, raklödder, ögonbrynsskugga, ögonskugga. Följande ämnen är PFAS och kan finnas i kosmetiska produkter: PTFE",3,0,
+C9-15 Fluoroalcohol Phosphate,,,"Högfluorerade ämnen (PFAS) är en ämnesgrupp med förmåga att bilda släta, vatten-, fett- och smutsavvisande ytor. De används i en rad olika produkter såsom friluftslivs- och regnkläder, möbeltyger, skidvalla, brandskum och teflonstekpannor. De används även i kosmetiska produkter. Dessa ämnen är svårnedbrytbara, det vill säga att de inte bryts ner i naturen. I naturen når de vattenmiljöer där de kommer att förorena dricksvattnet och påverka djurlivet negativt. Djurförsök visar att de orsakar leverskador, påverkar negativt immunförsvaret och försämrar reproduktionsförmågan. Två av dessa ämnen – PFOS och PFOA – är misstänkt cancerframkallande och är nu förbjudna. Naturskyddsföreningen har hittat PFAS i en rad kosmetiska produkter, nämligen: ansiktsmasker, ansiktskräm, eyeliner, foundation, hårolja, highlighter, mascara, puder, primer, raklödder, ögonbrynsskugga, ögonskugga. Följande ämnen är PFAS och kan finnas i kosmetiska produkter: PTFE",3,0,
+Decafluoropentane,,,"Högfluorerade ämnen (PFAS) är en ämnesgrupp med förmåga att bilda släta, vatten-, fett- och smutsavvisande ytor. De används i en rad olika produkter såsom friluftslivs- och regnkläder, möbeltyger, skidvalla, brandskum och teflonstekpannor. De används även i kosmetiska produkter. Dessa ämnen är svårnedbrytbara, det vill säga att de inte bryts ner i naturen. I naturen når de vattenmiljöer där de kommer att förorena dricksvattnet och påverka djurlivet negativt. Djurförsök visar att de orsakar leverskador, påverkar negativt immunförsvaret och försämrar reproduktionsförmågan. Två av dessa ämnen – PFOS och PFOA – är misstänkt cancerframkallande och är nu förbjudna. Naturskyddsföreningen har hittat PFAS i en rad kosmetiska produkter, nämligen: ansiktsmasker, ansiktskräm, eyeliner, foundation, hårolja, highlighter, mascara, puder, primer, raklödder, ögonbrynsskugga, ögonskugga. Följande ämnen är PFAS och kan finnas i kosmetiska produkter: PTFE",3,0,
+Ammonium C6-16 Perfluoroalkylethyl Phosphate,,,"Högfluorerade ämnen (PFAS) är en ämnesgrupp med förmåga att bilda släta, vatten-, fett- och smutsavvisande ytor. De används i en rad olika produkter såsom friluftslivs- och regnkläder, möbeltyger, skidvalla, brandskum och teflonstekpannor. De används även i kosmetiska produkter. Dessa ämnen är svårnedbrytbara, det vill säga att de inte bryts ner i naturen. I naturen når de vattenmiljöer där de kommer att förorena dricksvattnet och påverka djurlivet negativt. Djurförsök visar att de orsakar leverskador, påverkar negativt immunförsvaret och försämrar reproduktionsförmågan. Två av dessa ämnen – PFOS och PFOA – är misstänkt cancerframkallande och är nu förbjudna. Naturskyddsföreningen har hittat PFAS i en rad kosmetiska produkter, nämligen: ansiktsmasker, ansiktskräm, eyeliner, foundation, hårolja, highlighter, mascara, puder, primer, raklödder, ögonbrynsskugga, ögonskugga. Följande ämnen är PFAS och kan finnas i kosmetiska produkter: PTFE",3,0,
+Polyperfluoroethoxymethoxy Difluoroethyl Peg Phosphate,,,"Högfluorerade ämnen (PFAS) är en ämnesgrupp med förmåga att bilda släta, vatten-, fett- och smutsavvisande ytor. De används i en rad olika produkter såsom friluftslivs- och regnkläder, möbeltyger, skidvalla, brandskum och teflonstekpannor. De används även i kosmetiska produkter. Dessa ämnen är svårnedbrytbara, det vill säga att de inte bryts ner i naturen. I naturen når de vattenmiljöer där de kommer att förorena dricksvattnet och påverka djurlivet negativt. Djurförsök visar att de orsakar leverskador, påverkar negativt immunförsvaret och försämrar reproduktionsförmågan. Två av dessa ämnen – PFOS och PFOA – är misstänkt cancerframkallande och är nu förbjudna. Naturskyddsföreningen har hittat PFAS i en rad kosmetiska produkter, nämligen: ansiktsmasker, ansiktskräm, eyeliner, foundation, hårolja, highlighter, mascara, puder, primer, raklödder, ögonbrynsskugga, ögonskugga. Följande ämnen är PFAS och kan finnas i kosmetiska produkter: PTFE",3,0,
+Polyperfluoromethylisopropyl Ether,,,"Högfluorerade ämnen (PFAS) är en ämnesgrupp med förmåga att bilda släta, vatten-, fett- och smutsavvisande ytor. De används i en rad olika produkter såsom friluftslivs- och regnkläder, möbeltyger, skidvalla, brandskum och teflonstekpannor. De används även i kosmetiska produkter. Dessa ämnen är svårnedbrytbara, det vill säga att de inte bryts ner i naturen. I naturen når de vattenmiljöer där de kommer att förorena dricksvattnet och påverka djurlivet negativt. Djurförsök visar att de orsakar leverskador, påverkar negativt immunförsvaret och försämrar reproduktionsförmågan. Två av dessa ämnen – PFOS och PFOA – är misstänkt cancerframkallande och är nu förbjudna. Naturskyddsföreningen har hittat PFAS i en rad kosmetiska produkter, nämligen: ansiktsmasker, ansiktskräm, eyeliner, foundation, hårolja, highlighter, mascara, puder, primer, raklödder, ögonbrynsskugga, ögonskugga. Följande ämnen är PFAS och kan finnas i kosmetiska produkter: PTFE",3,0,
+Perfluorooctyl Triethoxysilane,,,"Högfluorerade ämnen (PFAS) är en ämnesgrupp med förmåga att bilda släta, vatten-, fett- och smutsavvisande ytor. De används i en rad olika produkter såsom friluftslivs- och regnkläder, möbeltyger, skidvalla, brandskum och teflonstekpannor. De används även i kosmetiska produkter. Dessa ämnen är svårnedbrytbara, det vill säga att de inte bryts ner i naturen. I naturen når de vattenmiljöer där de kommer att förorena dricksvattnet och påverka djurlivet negativt. Djurförsök visar att de orsakar leverskador, påverkar negativt immunförsvaret och försämrar reproduktionsförmågan. Två av dessa ämnen – PFOS och PFOA – är misstänkt cancerframkallande och är nu förbjudna. Naturskyddsföreningen har hittat PFAS i en rad kosmetiska produkter, nämligen: ansiktsmasker, ansiktskräm, eyeliner, foundation, hårolja, highlighter, mascara, puder, primer, raklödder, ögonbrynsskugga, ögonskugga. Följande ämnen är PFAS och kan finnas i kosmetiska produkter: PTFE",3,0,
+Polyeten,PE,,"Mikroplaster är små plastpartiklar som är 5 mm i diameter eller mindre. De har använts i skrubbande produkter såsom i kroppsskrubb, peeling- och duschkräm. De har även använts i kosmetiska produkter för deras egenskaper som konsistensgivande, filmbildande, skyddande eller som utfyllnad. Till exempel i tandkräm, schampo, hudkrämer, ögonskugga, deodorant, hårspray, rouge, nagellack, mascara, rakkräm, babyprodukter, foundations, hand- och ansiktsrengöring, bubbelbad, hårfärgningsmedel och solskyddsmedel. Mikroplaster är så små att de inte fångas upp i reningsverk. De hamnar i vattendrag och sjöar och där tas de upp av vattenlevande djur. De är bioackumulerande och har en rad negativa effekter såsom minskat födointag, inflammationer, samt negativ påverkan på djurens energilagring, nervsystem och reproduktion. Det finns mikroplaster i vårt dricksvatten. Sedan 2018 är mikroplaster förbjudna i kosmetiska produkter som sköljs av, såsom tvål, tandkräm och duschkräm. Mikroplaster i icke-avsköljbara produkter är fortsatt tillåtna.",3,0,
+Polymetylmetakrylat,PMMA,,"Mikroplaster är små plastpartiklar som är 5 mm i diameter eller mindre. De har använts i skrubbande produkter såsom i kroppsskrubb, peeling- och duschkräm. De har även använts i kosmetiska produkter för deras egenskaper som konsistensgivande, filmbildande, skyddande eller som utfyllnad. Till exempel i tandkräm, schampo, hudkrämer, ögonskugga, deodorant, hårspray, rouge, nagellack, mascara, rakkräm, babyprodukter, foundations, hand- och ansiktsrengöring, bubbelbad, hårfärgningsmedel och solskyddsmedel. Mikroplaster är så små att de inte fångas upp i reningsverk. De hamnar i vattendrag och sjöar och där tas de upp av vattenlevande djur. De är bioackumulerande och har en rad negativa effekter såsom minskat födointag, inflammationer, samt negativ påverkan på djurens energilagring, nervsystem och reproduktion. Det finns mikroplaster i vårt dricksvatten. Sedan 2018 är mikroplaster förbjudna i kosmetiska produkter som sköljs av, såsom tvål, tandkräm och duschkräm. Mikroplaster i icke-avsköljbara produkter är fortsatt tillåtna.",3,0,
+Polytetrafluoreten,PTFE,,"Mikroplaster är små plastpartiklar som är 5 mm i diameter eller mindre. De har använts i skrubbande produkter såsom i kroppsskrubb, peeling- och duschkräm. De har även använts i kosmetiska produkter för deras egenskaper som konsistensgivande, filmbildande, skyddande eller som utfyllnad. Till exempel i tandkräm, schampo, hudkrämer, ögonskugga, deodorant, hårspray, rouge, nagellack, mascara, rakkräm, babyprodukter, foundations, hand- och ansiktsrengöring, bubbelbad, hårfärgningsmedel och solskyddsmedel. Mikroplaster är så små att de inte fångas upp i reningsverk. De hamnar i vattendrag och sjöar och där tas de upp av vattenlevande djur. De är bioackumulerande och har en rad negativa effekter såsom minskat födointag, inflammationer, samt negativ påverkan på djurens energilagring, nervsystem och reproduktion. Det finns mikroplaster i vårt dricksvatten. Sedan 2018 är mikroplaster förbjudna i kosmetiska produkter som sköljs av, såsom tvål, tandkräm och duschkräm. Mikroplaster i icke-avsköljbara produkter är fortsatt tillåtna.",3,0,
+Polypropen,PP,,"Mikroplaster är små plastpartiklar som är 5 mm i diameter eller mindre. De har använts i skrubbande produkter såsom i kroppsskrubb, peeling- och duschkräm. De har även använts i kosmetiska produkter för deras egenskaper som konsistensgivande, filmbildande, skyddande eller som utfyllnad. Till exempel i tandkräm, schampo, hudkrämer, ögonskugga, deodorant, hårspray, rouge, nagellack, mascara, rakkräm, babyprodukter, foundations, hand- och ansiktsrengöring, bubbelbad, hårfärgningsmedel och solskyddsmedel. Mikroplaster är så små att de inte fångas upp i reningsverk. De hamnar i vattendrag och sjöar och där tas de upp av vattenlevande djur. De är bioackumulerande och har en rad negativa effekter såsom minskat födointag, inflammationer, samt negativ påverkan på djurens energilagring, nervsystem och reproduktion. Det finns mikroplaster i vårt dricksvatten. Sedan 2018 är mikroplaster förbjudna i kosmetiska produkter som sköljs av, såsom tvål, tandkräm och duschkräm. Mikroplaster i icke-avsköljbara produkter är fortsatt tillåtna.",3,0,
+Polyamid ,PA,Nylon,"Mikroplaster är små plastpartiklar som är 5 mm i diameter eller mindre. De har använts i skrubbande produkter såsom i kroppsskrubb, peeling- och duschkräm. De har även använts i kosmetiska produkter för deras egenskaper som konsistensgivande, filmbildande, skyddande eller som utfyllnad. Till exempel i tandkräm, schampo, hudkrämer, ögonskugga, deodorant, hårspray, rouge, nagellack, mascara, rakkräm, babyprodukter, foundations, hand- och ansiktsrengöring, bubbelbad, hårfärgningsmedel och solskyddsmedel. Mikroplaster är så små att de inte fångas upp i reningsverk. De hamnar i vattendrag och sjöar och där tas de upp av vattenlevande djur. De är bioackumulerande och har en rad negativa effekter såsom minskat födointag, inflammationer, samt negativ påverkan på djurens energilagring, nervsystem och reproduktion. Det finns mikroplaster i vårt dricksvatten. Sedan 2018 är mikroplaster förbjudna i kosmetiska produkter som sköljs av, såsom tvål, tandkräm och duschkräm. Mikroplaster i icke-avsköljbara produkter är fortsatt tillåtna.",3,0,
+Akryklat,,,"Mikroplaster är små plastpartiklar som är 5 mm i diameter eller mindre. De har använts i skrubbande produkter såsom i kroppsskrubb, peeling- och duschkräm. De har även använts i kosmetiska produkter för deras egenskaper som konsistensgivande, filmbildande, skyddande eller som utfyllnad. Till exempel i tandkräm, schampo, hudkrämer, ögonskugga, deodorant, hårspray, rouge, nagellack, mascara, rakkräm, babyprodukter, foundations, hand- och ansiktsrengöring, bubbelbad, hårfärgningsmedel och solskyddsmedel. Mikroplaster är så små att de inte fångas upp i reningsverk. De hamnar i vattendrag och sjöar och där tas de upp av vattenlevande djur. De är bioackumulerande och har en rad negativa effekter såsom minskat födointag, inflammationer, samt negativ påverkan på djurens energilagring, nervsystem och reproduktion. Det finns mikroplaster i vårt dricksvatten. Sedan 2018 är mikroplaster förbjudna i kosmetiska produkter som sköljs av, såsom tvål, tandkräm och duschkräm. Mikroplaster i icke-avsköljbara produkter är fortsatt tillåtna.",3,0,
+Potassium Sorbate,,,Kan potentiellt vara irreterande för huden. Kaliumsorbat är ett konserveringsmedel med E-nummer E 202 som hindrar jäst- och mögeltillväxt. Kaliumsorbat är neutraliserad sorbinsyra som finns naturligt i många frukter och bär,2,3,
+Sodium Salicylate,,,,,2,
+Caffeine,,,,,1,
+Triethylene Glycol,,,,,2,
+Propylene Glycol,,,,,4,
+CI 42090,,,,,2,
+Sodium Citrate,,,,,4,
+Piroctone Olamine,,,,,2,
+Dimethiconol,,,,,2,
+Dimethicone,,,,,2,
+Menthol,,,,,1,
+Guar Hydroxypropyltrimonium Chloride,,,,,2,
+TEA-Dodecylbenzenesulfonate,,,,,2,
+Sodium Hydroxide,,,,,3,
+Trideceth-10,,,,,2,
+CI 15985,,,,,1,
+CI 1720,,,,,1,
+Sodium eseedamide,,,,,1,
+lantoin,,,,,1,
+ene Glycol,,,,,1,
+ate,,,,,1,
+Sodium raniol,,,,,1,
+Avena Sativa Kernel Oil,,,,,1,
+Cannabis Sativa Seed Oil,,,,,1,
+Hydrogenated Ethylhexyl Olivate,,,,,1,
+Xylitylglucoside,,,,,1,
+Hydroxyethyl Acrylate/Sodium Acryloyldimethyl TaurateCopolymer,,,,,1,
+Anhydroxylitol,,,,,1,
+Glyceryl Stearate,,,,,2,
+Polyquaternium-76,,,,,1,
+CI 19140,,,,,1,
+Polyglyceryl-3 Dicitrate/Stearate,,,,,1,
+Caprylic/Capric Triglyceride,,,,,1,
+Octyldodecyl Myristate,,,,,1,
+C10-18 Triglycerides,,,,,1,
+Capric Triglyceride,,,,,1,
+Caprylic,,,,,1,
+Propylheptyl Caprylate,,,,,1,
+Undecane,,,,,1,
+Helianthus Annuus (Sunflower) Seed Oil,,,,,1,
+Prunus Avium (Sweet Cherry) Fruit Extract,,,,,1,
+Oryza Sativa (Rice) Extract,,,,,1,
+Centella Asiatica Leaf Extract,,,,,1,
+Allantoin,,,,,1,
+Ubiquinone,,,,,1,
+Tocopherol,,,,,1,
+Tocopheryl Acetate,,,"Tocopheryl acetate, även känt som vitamin E acetat, är en förening som tillverkas genom att kombinera vitamin E (tocopherol) med ättiksyra. Vitamin E är en naturlig antioxidant som finns i många vegetabiliska oljor, nötter och frön. Det finns också tillgängligt som kosttillskott. Tocopheryl acetate används ofta i hudvårdsprodukter, såsom hudfuktighetskrämer, solskydd och smink, på grund av dess förmåga att skydda huden från oxidativ skada orsakad av fria radikaler. Det används också som en konditionerande agent i hårvårdsprodukter. Tocopheryl acetate anses generellt sett vara säkert att använda i hudvårdsprodukter. Det är dock möjligt att det kan orsaka hudirritation hos vissa individer, precis som vilken som helst annan ingrediens. Om du har känslig hud eller är orolig för att använda produkter som innehåller tocopheryl acetate, rekommenderar jag att du gör en patchtest på en liten yta av huden innan du använder produkten mer omfattande.",2,2,
+Propylene Glycol,,,"Propylenglykol är generellt sett erkänt som säkert (GRAS) att använda i hudvårdsprodukter och det förväntas inte orsaka negativa hälsoeffekter när det används som avsett. Det är dock möjligt att propylenglykol kan orsaka hudirritation hos vissa individer, precis som vilken som helst annan ingrediens. Om du har känslig hud eller är orolig för att använda produkter som innehåller propylenglykol, rekommenderar jag att du gör en patchtest på en liten yta av huden innan du använder produkten mer omfattande. Detta hjälper dig att avgöra om produkten är lämplig för din hud och om du tål den. Om du upplever irritation eller andra biverkningar efter att du har använt en produkt som innehåller propylenglykol, är det lämpligt att sluta använda produkten och rådfråga en vårdgivare vid behov.",2,4,
+Caprylyl Glycol,,,,,1,
+Carbomer,,,,,1,
+Sodium Polyacrylate,,,,,1,
+Ceteareth-20,,,,,1,
+Glyceryl Stearate,,,"Glyceryl stearate is not considered to be harmful when used in personal care products as intended. It is a compound that is made by combining glycerol and stearic acid, both of which are naturally occurring substances. Glyceryl stearate is a white, waxy solid that is often used as an emulsifying agent, a lubricant, and a thickening agent in a variety of personal care products, including skin moisturizers, sunscreens, and makeup. There is no evidence to suggest that glyceryl stearate is harmful when used in personal care products. It is generally considered safe for use in these products and is not expected to cause adverse health effects when used as intended. However, like any ingredient, it is possible that glyceryl stearate could cause skin irritation in some individuals. If you have sensitive skin or are concerned about the use of glyceryl stearate in a product, it is recommended that you patch test the product on a small area of your skin before using it more extensively.",,2,
+Ceteareth-12,,,,,1,
+Cetyl Palmitate,,,,,1,
+Tridecane,,,,,1,
+Isohexadecane,,,,,1,
+Butylene Glycol,,,,,1,
+Cinnamyl Alcohol,,,,,1,
+Sodium Metabisulfite,,,,,1,
+Sorbic Acid,,,,,1,
+Chloride,,,,,1,
+Propyl Mangifera Indica Fruit Extract,,,,,1,
+Potassium Sorb Benzoate,,,,,1,
+Sodium Sulfate,,,,,1,
+Sodium Lauroyl Glutamate,,,,,1,
+Cocamide MEA,,,,,1,
+Laureth-10,,,,,1,
+Combretum Farinosum Flower Nectar,,,,,1,
+Formic acid,,,,,1,
+Alcohol,,,,,1,
+Glycereth-2 Cocoate,,,,,1,
+Rosmarinus Officinalis (Rosemary) Leaf Oil,,,,,1,
+Eucalyptus Globulus (Eucalyptus) Leaf Oil,,,,,1,
+Glycine,,,,,1,
+Sodium Xylenesulfonate,,,,,2,
+DMDM Hyi Sodium Lauroyl Glutamate,,,,,1,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,
+,,,,,0,

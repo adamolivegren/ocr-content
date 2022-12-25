@@ -47,6 +47,7 @@
       let ingredients;
       getData().then((result) => {
         ingredients = result;
+        console.log(ingredients);
       });
 
       /* REMOVE: used for testing */
@@ -123,6 +124,7 @@
             const elementNode = document.createTextNode(e.Name);
             element.appendChild(elementNode);
             const para = document.createElement("p");
+            console.log(e.Name);
             if (e.Desc) {
               const paraNode = document.createTextNode(e.Desc);
               para.appendChild(paraNode);
