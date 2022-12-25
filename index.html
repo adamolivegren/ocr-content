@@ -69,6 +69,7 @@
 
       const input = document.getElementById("image-input");
       input.addEventListener("change", () => {
+        console.log("ny bild");
         const file = input.files[0];
         if (file) {
           const reader = new FileReader();
@@ -99,12 +100,13 @@
       });
 
       const reset = () => {
-        document.querySelector(".result").innerHTML = "";
-        document.querySelector(".img-div img").style.display = "none";
-        document.querySelector(".reset-button").style.display = "none";
-        document.querySelector(".ocr-button").style.display = "none";
-        document.querySelector(".input-button").style.display = "flex";
-        document.querySelector(".logo").style.marginTop = "0";
+        window.location.reload();
+        // document.querySelector(".result").innerHTML = "";
+        // document.querySelector(".img-div img").style.display = "none";
+        // document.querySelector(".reset-button").style.display = "none";
+        // document.querySelector(".ocr-button").style.display = "none";
+        // document.querySelector(".input-button").style.display = "flex";
+        // document.querySelector(".logo").style.marginTop = "0";
       };
 
       const printResult = (text) => {
