@@ -29,7 +29,8 @@
         />
       </label>
       <div class="img-div">
-        <img src="" alt="" />
+        <canvas id="canvas" width="600" height="300"></canvas>
+        <!-- <img src="" alt="" /> -->
       </div>
       <div class="button crop-button"><p>CROP</p></div>
 
@@ -43,7 +44,7 @@
       <div id="loading-indicator">
         <div class="spinner"></div>
       </div>
-      <img src="" alt="" id="test" />
+
       <div class="button ocr-button" onclick="runOCR()"><p>Kör OCR</p></div>
       <div class="button analyze-button" onclick="analyzeContent()">
         <p>Analysera innehåll</p>
@@ -54,12 +55,31 @@
     </div>
 
     <script>
-      /* REMOVE: used for testing */
       let img = "img/IMG_2815.jpg";
+
+      window.onload = () => {
+        const canvas = document.getElementById("canvas");
+        const ctx = document.getElementById("canvas").getContext("2d");
+        const imgTest = new Image();
+        imgTest.onload = () => {
+          let scale_factor = Math.min(
+            canvas.width / imgTest.width,
+            canvas.height / imgTest.height
+          );
+          let newWidth = imgTest.width * scale_factor;
+          let newHeight = imgTest.height * scale_factor;
+          ctx.drawImage(imgTest, 0, 0, newWidth, newHeight);
+        };
+
+        imgTest.src = img;
+        document.querySelector(".img-div canvas").style.display = "block";
+      };
+      /* REMOVE: used for testing */
+
       document.querySelector(".ocr-button").style.display = "flex";
       document.querySelector(".crop-button").style.display = "flex";
-      document.querySelector(".img-div img").src = img;
-      document.querySelector(".img-div img").style.display = "block";
+      // document.querySelector(".img-div img").src = img;
+      // document.querySelector(".img-div img").style.display = "block";
       // window.onload = function () {
       //   document.querySelector(".img-div img").src = img;
       //   document.querySelector(".img-div img").style.display = "block";

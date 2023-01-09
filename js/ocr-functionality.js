@@ -25,10 +25,31 @@ const highlightText = (existingWords, missingWords, array) => {
   return array.join(", ");
 };
 
+const drawRectangles = (hocr) => {
+  let htmlObject = document.createElement("div");
+  htmlObject.innerHTML = hocr;
+  const htmlObjectArray = htmlObject.querySelectorAll(".ocrx_word");
+
+  const bboxCoordinates = [];
+
+  for (let i = 0; i < htmlObjectArray.length; i++) {
+    const textArray = htmlObjectArray[i].title.split(" ");
+    bboxCoordinates.push({
+      word: htmlObjectArray[i].innerHTML,
+      x: textArray[1],
+      y: textArray[2],
+      width: textArray[3],
+      height: textArray[4],
+    });
+
+    //lägg till innerhtml
+  }
+  console.log(bboxCoordinates);
+};
+
 const printResult = (text) => {
   const result = document.querySelector(".result");
   result.style.display = "block";
-
   let array = textToArray(text);
   array.forEach((element) => {
     ingredients.map((ingredient) => {
@@ -76,7 +97,6 @@ const runOCR = () => {
   showLoadingAnimation();
   Tesseract.recognize(img, "eng").then(
     ({ data: { text, hocr, tsv, blocks } }) => {
-      // console.log(blocks[0].paragraphs[1].lines[0].words[0].text);
       const parser = new DOMParser();
       const hocrDoc = parser.parseFromString(hocr, "text/html");
 
@@ -94,6 +114,7 @@ const runOCR = () => {
 
       hideLoadingAnimation();
       printResult(text);
+      drawRectangles(hocr);
       document.querySelector(".analyze-button").style.display = "flex";
       document.querySelector(".ocr-button").style.display = "none";
       document.querySelector(".reset-button").style.display = "flex";
