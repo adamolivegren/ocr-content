@@ -42,7 +42,7 @@ const drawRectangles = (hocr) => {
       height: textArray[4].substring(0, textArray[4].length - 1), //remove semicolon
     });
   }
-  console.log(bboxCoordinates[1].height);
+
   const canvas = document.getElementById("canvas");
   const ctx = canvas.getContext("2d");
   ctx.beginPath();
