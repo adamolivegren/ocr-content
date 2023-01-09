@@ -39,12 +39,15 @@ const drawRectangles = (hocr) => {
       x: textArray[1],
       y: textArray[2],
       width: textArray[3],
-      height: textArray[4],
+      height: textArray[4].substring(0, textArray[4].length - 1), //remove semicolon
     });
-
-    //lägg till innerhtml
   }
-  console.log(bboxCoordinates);
+  console.log(bboxCoordinates[1].height);
+  const canvas = document.getElementById("canvas");
+  const ctx = canvas.getContext("2d");
+  ctx.beginPath();
+  ctx.rect(bboxCoordinates[1].x, bboxCoordinates[1].y, 50, 50);
+  ctx.stroke();
 };
 
 const printResult = (text) => {
