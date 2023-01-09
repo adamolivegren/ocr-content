@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <script src="https://unpkg.com/tesseract.js@4.0.0/dist/tesseract.min.js"></script>
     <script src="js/getContent.js"></script>
+    <script src="js/ocr-functionality.js"></script>
     <link rel="stylesheet" href="css/styles.css" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -12,13 +13,13 @@
       href="https://fonts.googleapis.com/css2?family=Outfit&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="cropper.css" />
-    <script src="cropper.js"></script>
+    <link rel="stylesheet" href="css/cropper.css" />
+    <script src="js/cropper.js"></script>
   </head>
   <body>
     <div class="outer-div">
       <div class="logo"><img src="img/11hektar.png" alt="11hektar-logo" /></div>
-      <label class="input-button">
+      <label class="button input-button">
         Välj/Ta bild
         <input
           id="image-input"
@@ -30,26 +31,35 @@
       <div class="img-div">
         <img src="" alt="" />
       </div>
-      <div class="crop-button"><p>CROP</p></div>
-      <div class="result"></div>
+      <div class="button crop-button"><p>CROP</p></div>
+
+      <div class="result">
+        <h2>Denna text har vi lyckats läsa in.</h2>
+        <p class="result-text"></p>
+        <div class="result-bad">
+          <h2>Vi hittade ett par potentiellt skadliga ämnen.</h2>
+        </div>
+      </div>
       <div id="loading-indicator">
         <div class="spinner"></div>
       </div>
       <img src="" alt="" id="test" />
-      <div class="ocr-button" onclick="runOCR()"><p>Kör OCR</p></div>
-      <div class="reset-button" onclick="reset()">
+      <div class="button ocr-button" onclick="runOCR()"><p>Kör OCR</p></div>
+      <div class="button analyze-button" onclick="analyzeContent()">
+        <p>Analysera innehåll</p>
+      </div>
+      <div class="button reset-button" onclick="reset()">
         <p>Starta om</p>
       </div>
     </div>
 
     <script>
-      let img = "img/IMG_2815.jpg";
-      let ingredients;
-      getData().then((result) => {
-        ingredients = result;
-      });
-
       /* REMOVE: used for testing */
+      let img = "img/IMG_2815.jpg";
+      document.querySelector(".ocr-button").style.display = "flex";
+      document.querySelector(".crop-button").style.display = "flex";
+      document.querySelector(".img-div img").src = img;
+      document.querySelector(".img-div img").style.display = "block";
       // window.onload = function () {
       //   document.querySelector(".img-div img").src = img;
       //   document.querySelector(".img-div img").style.display = "block";
@@ -57,7 +67,6 @@
       //     zoomable: false,
       //   });
       //   document.querySelector(".crop-button").addEventListener("click", () => {
-      //     // get the cropped image as a canvas
       //     const canvas = cropper.getCroppedCanvas();
       //     img = canvas.toDataURL();
       //     cropper.destroy();
@@ -67,9 +76,9 @@
       //   });
       // };
 
+      /* IMAGE UPLOAD */
       const input = document.getElementById("image-input");
       input.addEventListener("change", () => {
-        console.log("ny bild");
         const file = input.files[0];
         if (file) {
           const reader = new FileReader();
@@ -77,13 +86,17 @@
             img = reader.result;
             document.querySelector(".img-div img").src = reader.result;
             document.querySelector(".img-div img").style.display = "block";
-            const cropper = new Cropper(document.querySelector(".img-div img"));
+            const cropper = new Cropper(
+              document.querySelector(".img-div img"),
+              {
+                zoomable: false,
+              }
+            );
             document.querySelector(".crop-button").style.display = "flex";
             document.querySelector(".input-button").style.display = "none";
             document
               .querySelector(".crop-button")
               .addEventListener("click", () => {
-                // get the cropped image as a canvas
                 const canvas = cropper.getCroppedCanvas();
                 img = canvas.toDataURL();
                 cropper.destroy();
@@ -101,57 +114,6 @@
 
       const reset = () => {
         window.location.reload();
-        // document.querySelector(".result").innerHTML = "";
-        // document.querySelector(".img-div img").style.display = "none";
-        // document.querySelector(".reset-button").style.display = "none";
-        // document.querySelector(".ocr-button").style.display = "none";
-        // document.querySelector(".input-button").style.display = "flex";
-        // document.querySelector(".logo").style.marginTop = "0";
-      };
-
-      const printResult = (text) => {
-        let array = text.split(",");
-        array = array.map((element) => element.trim());
-        console.log(array);
-        let warning = false;
-        const result = document.querySelector(".result");
-        const header = document.createElement("h2");
-        const headerNode = document.createTextNode(
-          "Vi hittade ett par potentiellt skadliga ämnen."
-        );
-        header.appendChild(headerNode);
-        result.appendChild(header);
-
-        ingredients.forEach((e) => {
-          if (array.includes(e.Name) && e.Name && e.Grading >= 3) {
-            const element = document.createElement("h4");
-            const elementNode = document.createTextNode(e.Name);
-            element.appendChild(elementNode);
-            const para = document.createElement("p");
-            console.log(e.Name);
-            if (e.Desc) {
-              const paraNode = document.createTextNode(e.Desc);
-              para.appendChild(paraNode);
-            } else {
-              const paraNode = document.createTextNode("Beskrivning saknas.");
-              para.appendChild(paraNode);
-            }
-            document.querySelector(".result").appendChild(element);
-            document.querySelector(".result").appendChild(para);
-
-            warning = true;
-          }
-        });
-
-        // let recommendation = "";
-        // warning
-        //   ? (recommendation = "⛔️ Rekommenderas inte!")
-        //   : (recommendation = "✅ Produkten är OK!");
-
-        // const reco = document.createElement("h3");
-        // const recoNode = document.createTextNode(recommendation);
-        // reco.appendChild(recoNode);
-        // document.querySelector(".result").appendChild(reco);
       };
 
       function showLoadingAnimation() {
@@ -160,22 +122,6 @@
 
       function hideLoadingAnimation() {
         document.getElementById("loading-indicator").style.display = "none";
-      }
-
-      function runOCR() {
-        showLoadingAnimation();
-        Tesseract.recognize(img, "eng").then(
-          ({ data: { text, hocr, tsv, blocks } }) => {
-            console.log(text);
-            hideLoadingAnimation();
-            printResult(text);
-            document.querySelector(".ocr-button").style.display = "none";
-            document.querySelector(".reset-button").style.display = "flex";
-            document.querySelector(".outer-div").style.justifyContent =
-              "flex-start";
-            document.querySelector(".logo").style.marginTop = "5vh";
-          }
-        );
       }
     </script>
   </body>

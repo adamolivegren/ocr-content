@@ -67,12 +67,18 @@ body {
 }
 
 .result {
+  display: none;
   padding-left: 5%;
   padding-right: 5%;
 }
 
-.ocr-button {
+.result-text {
+  color: red;
+}
+.result-bad {
   display: none;
+}
+.button {
   justify-content: center;
   align-items: center;
   width: 35vw;
@@ -80,55 +86,36 @@ body {
   padding-bottom: 5px;
   border-radius: 5px;
   background-color: #d9d9d9;
+  color: #53614d;
+}
+.button p {
+  color: #53614d;
+}
+
+.ocr-button {
+  display: none;
   margin-top: 40px;
 }
-.ocr-button p {
-  color: #53614d;
+.analyze-button {
+  display: none;
+  margin-top: 40px;
 }
 
 .input-button {
   display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 35vw;
-  padding-top: 10px;
-  padding-bottom: 10px;
   padding-right: 10px;
   padding-left: 10px;
-  border-radius: 5px;
   margin-bottom: 15px;
-  background-color: #d9d9d9;
   margin-top: 20px;
-  color: #53614d;
 }
 
 .crop-button {
   display: none;
-  justify-content: center;
-  align-items: center;
-  width: 35vw;
-  padding-top: 5px;
-  padding-bottom: 5px;
-  border-radius: 5px;
   margin-top: 20px;
-  background-color: #d9d9d9;
-}
-.crop-button p {
-  color: #53614d;
 }
 
 .reset-button {
   display: none;
-  justify-content: center;
-  align-items: center;
-  width: 35vw;
-  padding-top: 5px;
-  padding-bottom: 5px;
-  border-radius: 5px;
-  background-color: #d9d9d9;
-}
-.reset-button p {
-  color: #53614d;
 }
 
 #loading-indicator {

@@ -1,6 +1,6 @@
 async function getData() {
   // Fetch the contents of the CSV file
-  const response = await fetch("database.csv");
+  const response = await fetch("data/database.csv");
 
   // Get the contents of the file as a string
   const csvString = await response.text();
